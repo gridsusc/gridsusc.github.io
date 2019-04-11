@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # RSVP to GRIDS Presents Spring 2019
