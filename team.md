@@ -19,4 +19,4 @@ From left to right:
 
 [Isha Patil](https://www.linkedin.com/in/ishapatil07) - Community Ambassador
 
-Malika Seth - Head of Social Media
+[Malika Seth](https://www.linkedin.com/in/malika-seth-090b69144/) - Head of Social Media
