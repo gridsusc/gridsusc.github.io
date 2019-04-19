@@ -16,7 +16,7 @@ _Detecting Diabetic Retinopathy Using CNNs_
 * Adam Vaccaro
 
 _Detective of Los Angeles: Crime Data Investigator_
-* Mounica Nadu M
+* Mounica Naidu M
 
 Slides for the presentation can be found [here](https://docs.google.com/presentation/d/1PDW7ngo_H_vB1tMk6MVvk7n4iOuVxn-Jk3k61RBTXws). Big thank you to the presenters. You put in a ton of work on your projects and it definitely showed. We can't wait to see what data science goodness we'll see in the fall!
 
