@@ -8,5 +8,5 @@ With career fairs right around the corner, our first talk for Spring 2020 was a 
 
 Thank you for sharing your knowledge, Emily!
 
-![Emily presents](/assets/img/blog/2019-09-26-speaker-nlp/recruiting.jpg "Emily presents")
+![Emily presents](/assets/img/blog/2019-09-26-speaker-recruiting/recruiting.jpg "Emily presents")
 
