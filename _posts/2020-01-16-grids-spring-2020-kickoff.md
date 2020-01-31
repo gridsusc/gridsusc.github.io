@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GRIDS/CKIDS Kick-off - Spring 2020"
+title: "GRIDS/CKIDS Kickoff - Spring 2020"
 date: 2020-01-16
 ---
 
