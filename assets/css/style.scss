@@ -3,3 +3,11 @@
 ---
 
 @import "minima";
+
+#team-img {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 150px; /* width of container */
+    height: 150px; /* height of container */
+    overflow: hidden;
+  }
