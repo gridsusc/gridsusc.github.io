@@ -16,4 +16,6 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 - *(October 30th, 2020)* Q/A Session about Navigating a Career in Data Science (Speaker: [Dr. Yolanda Gil](https://www.isi.edu/~gil/)). Enter your topics of interest [here](https://docs.google.com/forms/d/e/1FAIpQLScDZiamwNRg830PR6byH4M8z7oqhUILFupap1Jd82GvKASS2Q/viewform).
 
+
+
 ![alt-text](/assets/img/USC_Viterbi_logo.png "USC Viterbi")
