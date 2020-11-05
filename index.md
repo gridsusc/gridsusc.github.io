@@ -18,6 +18,8 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 - *(November 3rd, 2020)* GRIDS x CKIDS Final Project Presentations at 4pm! Zoom Link: https://usc.zoom.us/j/93201086634
 
+- *(November 5th, 2020)* GRIDS Recruiting Talk with Booz Allen Hamilton at 10:30am! Zoom Link: https://usc.zoom.us/j/94998532731 
+
 
 
 ![alt-text](/assets/img/USC_Viterbi_logo.png "USC Viterbi")
