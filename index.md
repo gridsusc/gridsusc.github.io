@@ -12,4 +12,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 - *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Zoom Link [here](https://usc.zoom.us/j/94308713663).
 
+
+
+
 ![alt-text](/assets/img/USC_Viterbi_logo.png "USC Viterbi")
