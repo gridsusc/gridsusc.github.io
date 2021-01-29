@@ -10,7 +10,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 # Events
 
-- *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Zoom Link [here](https://usc.zoom.us/j/94308713663).
+- *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Check out the DataFest project descriptions [here](https://drive.google.com/file/d/1TC1fV8Q0-FMtkbOSCZ8W23-Cmlt1Leq7/view?usp=sharing)!
 
 
 
