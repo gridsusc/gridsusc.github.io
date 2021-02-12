@@ -41,11 +41,13 @@ Madeleine Thompson, Head of Social Media [[LinkedIn](https://www.linkedin.com/in
 
 Megan Josep, Head of Outreach [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
 
+*"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication. My days are now filled with coffee, yoga, binging Netflix shows, and zoom classes."*
+
 <img id="team-img" src="/assets/img/grids_team_2020/sanjiv_soni.png"/>
 
 Sanjiv Soni, Head of Technical Development [[LinkedIn](https://www.linkedin.com/in/sanjiv-soni/)] [[Website](https://www.sanjivsoni.com)]
 
-*"I am passionate to apply data science in unique intersections with other domains. Solving challenging problems at scale excites me the most.
+*"I am passionate about applying data science in unique intersections with other domains. Solving challenging problems at scale excites me the most.
 I’ve been building robots since my undergrad days for fun."*
 
 
