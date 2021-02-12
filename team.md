@@ -37,7 +37,7 @@ Madeleine Thompson, Head of Social Media [[LinkedIn](https://www.linkedin.com/in
 
 *"Hi there, I’m Madi and I’m pursuing my Masters in Applied Data Science here at USC. I’m really interested in using data science to augment the research process and making data science tools and technologies accessible to scientists and professionals. I have worked on projects using ML to drive chemical synthesis in a solid-state inorganic chemistry lab and with a sociology team studying the effects of maternal bereavement in the Global South. Outside of my studies, I enjoy trying out new vegan recipes, killing my houseplants and buying replacements (it’s a vicious cycle), hiking with my dog, and travelling (once the pandemic is over!)."*
 
-<img id="team-img" src="/assets/img/grids_team_2020/megan_josep.png"/>
+<img id="team-img" src="/assets/img/grids_team_2020/megan_josep.jpg"/>
 
 Megan Josep, Head of Outreach [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
 
