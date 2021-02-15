@@ -11,7 +11,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Events
 
 - *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Check out the DataFest project descriptions [here](https://drive.google.com/file/d/1TC1fV8Q0-FMtkbOSCZ8W23-Cmlt1Leq7/view?usp=sharing)!
-- *(January 12th, 2021)* First GRIDS Social Night of Spring 2021! Check out our GRIDS Presentation and learn about our new initiatives [here](https://drive.google.com/file/d/1_FivGOBCWlpvxUlrNIh_PmT7G7vZhvgt/view?usp=sharing).
+- *(February 11th, 2021)* First GRIDS Social Night of Spring 2021! Check out our GRIDS Presentation and learn about our new initiatives [here](https://drive.google.com/file/d/1_FivGOBCWlpvxUlrNIh_PmT7G7vZhvgt/view?usp=sharing).
 
 
 
