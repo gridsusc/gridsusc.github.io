@@ -42,6 +42,7 @@ header_pages:
  - team.md
  - join.md
  - blog.md
+ - tutorials.md
 
 # Build settings
 theme: minima
