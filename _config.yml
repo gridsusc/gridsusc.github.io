@@ -43,6 +43,7 @@ header_pages:
  - join.md
  - blog.md
  - tutorials.md
+ - mentorship.md
 
 # Build settings
 theme: minima
