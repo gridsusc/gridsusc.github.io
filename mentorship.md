@@ -5,7 +5,7 @@ permalink: /mentorship/
 ---
 ## GRIDS Mentorship
 
-The GRIDS Mentorship program aims to guide and support members at all levels and build community at GRIDS. For those looking to join our expert panel of GRIDS Mentors, this is a great chance to use your expertise to help out others in the Data Science community and have your profile featured on the GRIDS platform. If you are someone who has experience in any of the following (or in a field not indicated below), please sign up to be a mentor!
+The GRIDS Mentorship program aims to guide and support members at all levels and build community at GRIDS. For those looking to join our expert panel of GRIDS Mentors, this is a great chance to use your expertise to help out others in the Data Science community and have your profile featured on the GRIDS platform. If you are someone who has experience in any of the following (or in a field not indicated below), please sign up [here](https://forms.gle/wiGRvejLSbq9xh8c6) to be a mentor!
 
 - Navigating a Career in Data Science
 - Interviewing for a Job
