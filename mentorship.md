@@ -20,3 +20,6 @@ Mentors will be expected to meet with their mentees at least once a month throug
 
 
 ![alt-text](/assets/img/grids_mentorship_logo.png "GRIDS Mentorship Logo")
+
+
+<img align="center" id="mentorship-logo" src="/assets/img/grids_mentorship_logo.png"/>
