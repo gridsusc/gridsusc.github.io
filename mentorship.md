@@ -19,7 +19,4 @@ If you are someone who would like to receive mentoring, look no further! Our men
 Mentors will be expected to meet with their mentees at least once a month through Zoom (or any other platform you prefer), and both parties can decide how frequently you may connect through email or Slack. The GRIDS Team will help facilitate a comfortable and safe environment for mentors and mentees to communicate.
 
 
-![alt-text](/assets/img/grids_mentorship_logo.png "GRIDS Mentorship Logo")
-
-
-<img align="center" id="mentorship-logo" src="/assets/img/grids_mentorship_logo.png"/>
+<div align="center"><img align="center" id="mentorship-logo" src="/assets/img/grids_mentorship_logo.png"/></div>
