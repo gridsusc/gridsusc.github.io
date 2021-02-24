@@ -12,6 +12,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 Please note that all our event timings are as per PST.
 
 - *(February 26th, 2021 - 4pm)* GRIDS Info Session! Join us to learn more about how to join the GRIDS Expert Panel and be a part of GRIDS Mentorship and GRIDS Tutorials! Zoom link [here]( https://usc.zoom.us/j/99829448639).
+- *(March 2nd, 2021 - 5pm)* GRIDS x CKIDS DataFest Midterm Presentation! Students will present their progress so far and outline their plans for the rest of the semester. Zoom link [here](https://usc.zoom.us/j/92987871661).
 - *(March 4th, 2021 - 5pm)* GRIDS Talk with Alex Davis and Tyler Thomas from Vulcan Value Partners. Learn about Machine Learning in Finance and how to apply it, from industry professionals!
 - *(March 10th, 2021 - 7pm)* GRIDS Talk with Dr. Chris Matmann.
 - *(March 25th, 2021 - 5pm)* GRIDS Talk with Dr. Goran Muric.
