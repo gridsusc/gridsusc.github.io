@@ -25,6 +25,6 @@ GRIDS Tutorials is a collaborative effort to create a collection of tutorials fo
 
 Please note that you are not expected to write a full, comprehensive tutorial all by yourself! The aim is to collaborate together (similar to Wikipedia) and build a collection of knowledge over time.
 
-Here is the GRIDS Tutorials wiki: https://github.com/gridsusc/GRIDS-Tutorials/wiki.
+[Here](https://github.com/gridsusc/GRIDS-Tutorials/wiki) is the GRIDS Tutorials wiki where you can contribute!
 
 <div align="center"><img align="center" id="tutorials-logo" src="/assets/img/grids_tutorials_logo.png"/></div>
