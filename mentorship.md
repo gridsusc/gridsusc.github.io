@@ -73,4 +73,6 @@ Here is our expert panel of GRIDS Mentors.
 
 **Mentoring Topics:** Research in Data Science, Data Science/Computer Science Tools and Technologies
 
+All participants are expected to follow the [GRIDS Mentorship Guidelines](https://drive.google.com/file/d/1qATpjBmxSZY1gQoVwpeFMYkAIDPdSbrk/view?usp=sharing)
+
 <div align="center"><img align="center" id="mentorship-logo" src="/assets/img/grids_mentorship_logo.png" width="200" height="200"/></div>
