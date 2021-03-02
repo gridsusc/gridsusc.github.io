@@ -34,7 +34,7 @@ Here is our expert panel of GRIDS Mentors.
 
 *"I am a computer science graduate student and love solving challenges of everyday life. I am interested in the applications of Artificial Intelligence and Deep Learning in medicine and healthcare, cyber security and environment conservation. I have three years of experience working as a data scientist and AI Product developer. I have developed products like BhuVargikaran - a scalable satellite imagery system for annotations and prediction of deforestation rate using computer vision and HeartGuards - a heart sound based cardiologist. In my free time, I like painting and playing tennis and badminton."*
 
-### Hitesh Pindikanti ([LinkedIn](https://www.linkedin.com/in/hiteshpindikanti/) [Website](https://sites.google.com/view/hiteshpindikanti/))
+### Hitesh Pindikanti ([LinkedIn](https://www.linkedin.com/in/hiteshpindikanti/)) ([Website](https://sites.google.com/view/hiteshpindikanti/))
 
 <img id="team-img" src="/assets/img/mentorship/hitesh.jpg"/>
 
