@@ -13,7 +13,7 @@ Please note that all our event timings are as per PST.
 
 - *(March 4th, 2021 - 5pm)* GRIDS Talk with Alex Davis and Tyler Thomas from Vulcan Value Partners. Learn about Machine Learning in Finance and how to apply it, from industry professionals! Zoom link [here](https://usc.zoom.us/j/8292657885).
 - *(March 10th, 2021 - 7pm)* GRIDS Talk with Dr. Chris Matmann.
-- *(March 17th, 2021)* Panel Talk with Industry Professionals.
+- *(March 17th, 2021)* GRIDS Panel Talk with Industry Professionals.
 - *(March 25th, 2021 - 5pm)* GRIDS Talk with Dr. Goran Muric.
 
 # Past Events
