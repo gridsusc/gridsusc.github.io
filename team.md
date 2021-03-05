@@ -27,7 +27,7 @@ Iris Liu, Head of Technical Development [[LinkedIn](https://www.linkedin.com/in/
 
 <img id="team-img" src="/assets/img/grids_team_2020/huy_nghiem.jpg"/>
 
-Henry Nghiem, Head of Programs [[LinkedIn](www.linkedin.com/in/huy-tran-nghiem/)]
+Henry Nghiem, Head of Programs [[LinkedIn](https://www.linkedin.com/in/huy-tran-nghiem/)]
 
 *"Huy (Henry) Nghiem is a second year Master Student in CS with an emphasis on Data Science. He majored in Applied Math and Public Health Sciences in undergrad at UCI. Huy has been working as a research programmer for the school of Social Work at USC. He also has participated in research in Machine Learning, NLP and Cryptocurrency. In his free time he can be found reading manga, binging Netflix’s smart thrillers, or having fruit tea then napping incessantly on his sofa. He’s always down for boba."*
 
