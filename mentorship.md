@@ -50,7 +50,7 @@ Here is our expert panel of GRIDS Mentors.
 
 ### **Henry Nghiem** ([LinkedIn](www.linkedin.com/in/huy-tran-nghiem/))
 
-<img id="team-img" src="/assets/img/team/huy.jpg"/>
+<img id="team-img" src="/assets/img/grids_team_2020/huy_nghiem.jpg"/>
 
 *"Huy (Henry) Nghiem is a second year Master Student in CS with an emphasis on Data Science. He majored in Applied Math and Public Health Sciences in undergrad at UCI. He had been working as Data Analyst for several years before starting his current job as Research Programmer for the School of Social Work at USC. He has also participated in research in Machine Learning, NLP and Cryptocurrency."*
 
