@@ -48,11 +48,19 @@ Here is our expert panel of GRIDS Mentors.
 
 **Mentoring Topics:** Interviewing for a Job, Programming, Data Science/Computer Science Tools and Technologies
 
+### **Henry Nghiem** ([LinkedIn](www.linkedin.com/in/huy-tran-nghiem/))
+
+<img id="team-img" src="/assets/img/team/huy.jpg"/>
+
+*"Huy (Henry) Nghiem is a second year Master Student in CS with an emphasis on Data Science. He majored in Applied Math and Public Health Sciences in undergrad at UCI. He had been working as Data Analyst for several years before starting his current job as Research Programmer for the School of Social Work at USC. He has also participated in research in Machine Learning, NLP and Cryptocurrency."*
+
+**Mentoring Topics:** Interviewing for a Job, Research in Data Science, Navigating Graduate School
+
 ### **Madhuri Jujare** ([LinkedIn](https://www.linkedin.com/in/madhurijujare))
 
 <img id="team-img" src="/assets/img/mentorship/madhuri.jpg"/>
 
-*"Hi! In this vast and dynamic landscape of computer science, my interests include all things security and privacy, cryptography, blockchain, full-stack engineering, and the intersection between technology and policy. I've spent much of my time at USC working on security-related projects and research with some web development on the side! Along the way, I've experienced my fair share of interviews (both nightmarish and pleasant), large group projects, and the rewarding feeling of working on directed research. Please don't hesitate to reach out! I'd be more than happy to talk about anything from cool project ideas to navigating the joys and challenges of grad school life! :)"*
+*"Hi! I'm pursuing my M.S. in Computer Science with a focus in Cybersecurity, and have worked at the Information Sciences Institute (ISI) for a year in the Internet and Networked Division. Much of my work at ISI was dedicated to application development in efforts to redesign existing cybersecurity tools and methodologies for better usability for faculty, students, and researchers. I've also co-authored a publication about user experience, and human-computer interaction in regards to text analytic tooling for the purposes of improving computer science education, and am currently researching the security and privacy risks of social media communication (given the rise of bots) through the lens of the COVID-19 pandemic. In my grad school journey here at USC, I've experienced my fair share of interviews (both nightmarish and pleasant), large group projects, and the rewarding feeling of working on directed research. I'd be more than happy to talk about anything from cool project ideas to navigating the joys and challenges of grad school life! :)"*
 
 **Mentoring Topics:** Interviewing for a Job, Navigating Graduate School, Presentation and Soft Skills, Cybersecurity, Privacy
 
