@@ -16,6 +16,8 @@ The GRIDS Mentorship program aims to guide and support members at all levels and
 
 Here is our expert panel of GRIDS Mentors.
 
+### GRIDS Mentors
+
 ### **Aastha** ([LinkedIn](https://www.linkedin.com/in/aastha-dua/))
 
 <img id="team-img" src="/assets/img/mentorship/aastha.jpg"/>
