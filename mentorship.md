@@ -16,6 +16,22 @@ The GRIDS Mentorship program aims to guide and support members at all levels and
 
 Here is our expert panel of GRIDS Mentors.
 
+### **Aastha** ([LinkedIn](https://www.linkedin.com/in/aastha-dua/))
+
+<img id="team-img" src="/assets/img/mentorship/aastha.jpg"/>
+
+*"I am a 3rd-year Ph.D. student in the CS Department. I have done applied ML projects in the health-care domain (robotic surgery), USC. I am interested in new projects around anomaly detection, vision, and time-series data. Before joining USC,  I worked as a senior analyst for the Digital Marketing Analytics team of Capital One for two years. I spent some time with the Customer Fraud detection team (Trust and Safety) in Flipkart and a short stint with Grab-Taxi, Singapore."*
+
+**Mentoring Topics:** Research in Data Science, Presentation and Soft Skills, Data Science/Computer Science Tools and Technologies
+
+### **Abhivineet Veeraghanta** ([LinkedIn](https://www.linkedin.com/in/abhivineet/))
+
+<img id="team-img" src="/assets/img/grids_team_2020/abhivineet_veeraghanta.jpeg"/>
+
+*"Data Science and Machine Learning are somewhat of a recent interest of mine, I’ve worked on various different projects ranging from sentiment analysis, music generation and inclusion of facial recognition in social media. My current inclination is towards working on applications of AI and ML in the medical field."*
+
+**Mentoring Topics:** Programming, Data Science/Computer Science Tools and Technologies
+
 ### **Bryan Beh** ([LinkedIn](https://www.linkedin.com/in/bryanbeh/))
 
 <img id="team-img" src="/assets/img/mentorship/bryan.jpg"/>
@@ -56,6 +72,14 @@ Here is our expert panel of GRIDS Mentors.
 
 **Mentoring Topics:** Interviewing for a Job, Research in Data Science, Navigating Graduate School
 
+### **Iris Liu** ([LinkedIn](https://www.linkedin.com/in/irisliucy/))
+
+<img id="team-img" src="/assets/img/grids_team_2020/iris_liu.jpg"/>
+
+*"I am passionate in building AI softwares and systems at scale that lead people happier, healthier life in harmony with the environment. I’m currently working in USC RESL in a reinforcement learning opensource project."*
+
+**Mentoring Topics:** Programming, Interviewing for a Job, Research in Data Science
+
 ### **Madhuri Jujare** ([LinkedIn](https://www.linkedin.com/in/madhurijujare))
 
 <img id="team-img" src="/assets/img/mentorship/madhuri.jpg"/>
@@ -64,6 +88,13 @@ Here is our expert panel of GRIDS Mentors.
 
 **Mentoring Topics:** Interviewing for a Job, Navigating Graduate School, Presentation and Soft Skills, Cybersecurity, Privacy
 
+### **Megan Josep** ([LinkedIn](https://www.linkedin.com/in/megjosep/))
+
+<img id="team-img" src="/assets/img/grids_team_2020/megan_josep.jpg"/>
+
+*"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication."*
+
+**Mentoring Topics:** Interviewing for a Job
 
 ### **Myrl Marmarelis** ([Website](https://myrl.marmarel.is/))
 
