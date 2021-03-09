@@ -30,7 +30,7 @@ Here is our expert panel of GRIDS Mentors.
 
 <img id="team-img" src="/assets/img/grids_team_2020/abhivineet_veeraghanta.jpeg"/>
 
-*"Data Science and Machine Learning are somewhat of a recent interest of mine, I’ve worked on various different projects ranging from sentiment analysis, music generation and inclusion of facial recognition in social media. My current inclination is towards working on applications of AI and ML in the medical field."*
+*"Hello everyone! I’m a Computer Science graduate student. My favourite programming languages are Python and Java. I’ve written over 3000 lines of code in each! I’ve done various projects ranging from machine learning to app development. I’ve worked on medical, rock, facial image and twitter data performing analysis and deploying machine learning models to solve problems. I’d love to mentor students who are finding it difficult to navigate through the world of programming or data science."*
 
 **Mentoring Topics:** Programming, Data Science/Computer Science Tools and Technologies
 
