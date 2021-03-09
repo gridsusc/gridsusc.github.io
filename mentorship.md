@@ -94,7 +94,7 @@ Here is our expert panel of GRIDS Mentors.
 
 <img id="team-img" src="/assets/img/grids_team_2020/megan_josep.jpg"/>
 
-*"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication."*
+*"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication. I’m currently researching the impact of organizational culture and its communicative style on code development at Information Sciences Institute (ISI)."*
 
 **Mentoring Topics:** Interviewing for a Job
 
