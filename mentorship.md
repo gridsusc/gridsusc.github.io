@@ -66,7 +66,7 @@ Here is our expert panel of GRIDS Mentors.
 
 **Mentoring Topics:** Interviewing for a Job, Programming, Data Science/Computer Science Tools and Technologies
 
-### **Henry Nghiem** ([LinkedIn](www.linkedin.com/in/huy-tran-nghiem/))
+### **Henry Nghiem** ([LinkedIn](https://www.linkedin.com/in/huy-tran-nghiem/))
 
 <img id="team-img" src="/assets/img/grids_team_2020/huy_nghiem.jpg"/>
 
@@ -111,6 +111,15 @@ Here is our expert panel of GRIDS Mentors.
 <img id="team-img" src="/assets/img/mentorship/robert.jpg"/>
 
 *"Robert is a researcher in Clinical Informatics and NLP enthusiasts. He is currently working for Vulcan Value Partners as a full stack Data Scientist and consulting for Kaiser Permanente on the building of NLP pipelines. For the last 3 years he has worked with a team out of University of Colorado developing Natural Language systems for clinical use. He is also passionate about education and manages workshops in Data Science at USC."*
+
+**Mentoring Topics:** Research in Data Science, Data Science/Computer Science Tools and Technologies
+
+
+### **Rushi Shah** ([LinkedIn](https://www.linkedin.com/in/rushi-shah/))
+
+<img id="team-img" src="/assets/img/mentorship/rushi.jpg"/>
+
+*"I am Rushi Shah, doing my Masters in Applied Data Science at USC Viterbi School of Engineering. I have done two internships, one as a machine learning intern and another as a web developer intern. I also used to teach students python and basics of deep learning during the covid lockdown in 2020. I am very much interested in doing research in the Deep learning field and its state of the art models."*
 
 **Mentoring Topics:** Research in Data Science, Data Science/Computer Science Tools and Technologies
 
