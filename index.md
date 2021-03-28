@@ -11,8 +11,8 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Upcoming Events
 Please note that all our event timings are as per PDT.
 
+- *(April 8th, 2021 - 4pm)* GRIDS Recruiting Talk with Booz Allen Hamilton. Zoom link [here]( https://usc.zoom.us/j/95935386109).
 
-- *(March 25th, 2021 - 5pm)* GRIDS Talk about Gender Disparity in Research during COVID-19, with Dr. Goran Muric. Zoom link [here](https://usc.zoom.us/j/99658078975).
 
 # Past Events
 
@@ -24,6 +24,7 @@ Please note that all our event timings are as per PDT.
 - *(March 4th, 2021 - 5pm)* GRIDS Talk with Alex Davis and Tyler Thomas from Vulcan Value Partners. Learn about Machine Learning in Finance and how to apply it, from industry professionals!
 - *(March 10th, 2021 - 7pm)* GRIDS Talk with Dr. Chris Matmann.
 - *(March 17th, 2021)* GRIDS Panel Talk with Industry Professionals.
+- *(March 25th, 2021 - 5pm)* GRIDS Talk about Gender Disparity in Research during COVID-19, with Dr. Goran Muric. Zoom link [here](https://usc.zoom.us/j/99658078975).
 
 
 
