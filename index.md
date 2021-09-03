@@ -11,13 +11,12 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Upcoming Events
 Please note that all our event timings are as per PDT.
 
-- *(April 13th, 2021 - 4pm)* GRIDSxCKIDS DataFest final presentation event. Zoom link [here](https://usc.zoom.us/j/91720646879).
-- *(April 15th, 2021 - 4pm)* GRIDS talk with Aishwarya Srinivasan (Data Scientist at IBM, LinkedIn Top Voice 2020). Zoom link [here](https://usc.zoom.us/j/99573883298).
-- *(April 23rd, 2021 - 4pm)* GRIDS Talk with Dr. Saty Raghavachary.
+- *(Date TBD)* GRIDS Social Event
 
 
 # Past Events
 
+## Spring 2021
 - *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Check out the DataFest project descriptions [here](https://drive.google.com/file/d/1TC1fV8Q0-FMtkbOSCZ8W23-Cmlt1Leq7/view?usp=sharing)!
 - *(February 11th, 2021)* First GRIDS Social Night of Spring 2021! Check out our GRIDS Presentation and learn about our new initiatives [here](https://drive.google.com/file/d/1_FivGOBCWlpvxUlrNIh_PmT7G7vZhvgt/view?usp=sharing).
 - *(February 15th, 2021)* Applications for GRIDS Mentorship and GRIDS Tutorials are out! Please check out the corresponding tabs on the website to learn more and apply.
@@ -29,5 +28,8 @@ Please note that all our event timings are as per PDT.
 - *(March 25th, 2021 - 5pm)* GRIDS Talk about Gender Disparity in Research during COVID-19, with Dr. Goran Muric. Zoom link [here](https://usc.zoom.us/j/99658078975).
 - *(April 8th, 2021 - 4pm)* GRIDS Recruiting Talk with Booz Allen Hamilton. Zoom link [here]( https://usc.zoom.us/j/95935386109).
 - *(April 9th, 2021 - 4pm)* GRIDS DataFest Website and GitHub workshop.
+- *(April 13th, 2021 - 4pm)* GRIDSxCKIDS DataFest final presentation event. Zoom link [here](https://usc.zoom.us/j/91720646879).
+- *(April 15th, 2021 - 4pm)* GRIDS talk with Aishwarya Srinivasan (Data Scientist at IBM, LinkedIn Top Voice 2020). Zoom link [here](https://usc.zoom.us/j/99573883298).
+- *(April 23rd, 2021 - 4pm)* GRIDS Talk with Dr. Saty Raghavachary.
 
 ![alt-text](/assets/img/USC_Viterbi_logo.png "USC Viterbi")
