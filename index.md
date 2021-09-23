@@ -32,4 +32,17 @@ Please note that all our event timings are as per PDT.
 - *(April 15th, 2021 - 4pm)* GRIDS talk with Aishwarya Srinivasan (Data Scientist at IBM, LinkedIn Top Voice 2020).
 - *(April 23rd, 2021 - 4pm)* GRIDS Talk with Dr. Saty Raghavachary.
 
+# Membership
+
+Be a part of USC's premier graduate student data science organization!
+ 
+## How to become a member:
+To be a member of GRIDS, submit our [signup form](https://forms.gle/FDC4xnDmSBJNC8SN7) and Venmo your semester dues to **@gridsusc**. Dues are $10 per semester for new members and $5 per semester for returning GRIDSters. 
+ 
+## Why be a GRIDS Member?
+Membership in GRIDS provides:
+- Priority at all GRIDS-related events, including technical workshops and industry recruiting sessions
+- Access to GRIDS network of students, alumni, and contacts in the industry
+- Follow us on social media as we continue to post GRIDS events throughout the semester! Follow us on [LinkedIn](https://www.linkedin.com/company/gridsusc), [Instagram](https://www.instagram.com/gridsusc/), and [Twitter](https://twitter.com/gridsusc).
+
 ![alt-text](/assets/img/USC_Viterbi_logo.png "USC Viterbi")
