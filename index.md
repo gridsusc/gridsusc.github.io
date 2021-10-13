@@ -11,7 +11,6 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Upcoming Events
 Please note that all our event timings are as per PDT.
 
-- *October 12th 6pm* - GRIDS Tutorials: Website Workshop.
 - *October 18th 5pm* - GRIDS Talk with Dr. Keith Burghardt.
 - *October 29th* - DataFest Midterm Presentations.
 - *November 3rd 4:30pm (via Zoom)* - Booz Allen Hamilton Industry Info Session.
@@ -24,6 +23,7 @@ Please note that all our event timings are as per PDT.
 - (*August 30th* - 4-6pm) GRIDS x CKIDS DataFest F21 Kickoff Event. Check out the DataFest project descriptions [here](https://sites.usc.edu/ckids/datafest-f21-fall-2021/).
 - *(September 22nd - 7:30pm)* GRIDS Social Night.
 - *(September 30th - 3pm)* DataFest Panel Discussion - Learning to Collaborate in Data Science Projects.
+- *October 12th 6pm* - GRIDS Tutorials: Website Workshop. [View code on GitHub](https://github.com/gridsusc/GRIDS-Tutorials/tree/main/Bootstrap_Workshop_1_Fall2021) or [slides](https://docs.google.com/presentation/d/1puHJXeuc6davvuEdarLkImHy-Kp4DbFMuz7dHwaUSds/edit?usp=sharing) from the workshop.
 
 ## Spring 2021
 - *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Check out the DataFest project descriptions [here](https://drive.google.com/file/d/1TC1fV8Q0-FMtkbOSCZ8W23-Cmlt1Leq7/view?usp=sharing)!
