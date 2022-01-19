@@ -9,12 +9,14 @@ layout: page
 Graduates Rising in Information and Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering's Department of Computer Science. Our mission is to advance the academic and professional interests of Informatics, Data Science, and Computer Science students at USC through experiential learning, corporate partnerships, and engaging networking opportunities that build community.
 
 # Upcoming Events
-Please note that all our event timings are as per PDT.
+Please note that all our event timings are as per PST.
 
-- *October 18th 5pm* - GRIDS Talk with Dr. Keith Burghardt.
-- *October 29th* - DataFest Midterm Presentations.
-- *November 3rd 4:30pm (via Zoom)* - Booz Allen Hamilton Industry Info Session.
-- *December 3rd* - DataFest Final Presentations & Awards.
+- *January 28th 4-6pm* - GRIDS x CKIDS DataFest S22 Kickoff Event
+- *February 15th (Time TBD)* - GitHub Info Session
+- *February 28th 6pm* - GRIDS Talk with Dr. Fred Morstatter
+- *March 7th 5pm* - GRIDS Talk with Dr. Abigail Horn
+- *March 11th 4-6pm* - DataFest Midterm Event
+- *April 22nd 4-6pm* - DataFest Final Event
 
 
 # Past Events
@@ -23,7 +25,11 @@ Please note that all our event timings are as per PDT.
 - (*August 30th* - 4-6pm) GRIDS x CKIDS DataFest F21 Kickoff Event. Check out the DataFest project descriptions [here](https://sites.usc.edu/ckids/datafest-f21-fall-2021/).
 - *(September 22nd - 7:30pm)* GRIDS Social Night.
 - *(September 30th - 3pm)* DataFest Panel Discussion - Learning to Collaborate in Data Science Projects.
-- *October 12th 6pm* - GRIDS Tutorials: Website Workshop. [View code on GitHub](https://github.com/gridsusc/GRIDS-Tutorials/tree/main/Bootstrap_Workshop_1_Fall2021) or [slides](https://docs.google.com/presentation/d/1puHJXeuc6davvuEdarLkImHy-Kp4DbFMuz7dHwaUSds/edit?usp=sharing) from the workshop.
+- *(October 12th 6pm)* GRIDS Tutorials: Website Workshop. [View code on GitHub](https://github.com/gridsusc/GRIDS-Tutorials/tree/main/Bootstrap_Workshop_1_Fall2021) or [slides](https://docs.google.com/presentation/d/1puHJXeuc6davvuEdarLkImHy-Kp4DbFMuz7dHwaUSds/edit?usp=sharing) from the workshop.
+- *(October 18th 5pm)* GRIDS Talk with Dr. Keith Burghardt.
+- *(October 29th)* DataFest Midterm Presentations.
+- *(November 3rd 4:30pm)* Booz Allen Hamilton Industry Info Session.
+- *(December 3rd)* DataFest Final Presentations & Awards.
 
 ## Spring 2021
 - *(January 28th, 2021 - 4-6pm)* GRIDS x CKIDS DataFest Kickoff. Check out the DataFest project descriptions [here](https://drive.google.com/file/d/1TC1fV8Q0-FMtkbOSCZ8W23-Cmlt1Leq7/view?usp=sharing)!
