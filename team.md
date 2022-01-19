@@ -7,13 +7,13 @@ permalink: /team/
 
 <img id="team-img" src="/assets/img/grids_team_2020/madi_thompson.png"/>
 
-Madeleine Thompson, President [[LinkedIn](https://www.linkedin.com/in/madeleine-jane-thompson/)]
+Madeleine Thompson, Co-President [[LinkedIn](https://www.linkedin.com/in/madeleine-jane-thompson/)]
 
 *"Hi there, I’m Madi and I’m pursuing my Masters in Applied Data Science here at USC. I’m really interested in using data science to augment the scientific research process and making data science tools and technologies accessible to scientists and professionals. Outside of my studies, I enjoy trying out new vegan recipes, killing my houseplants and buying replacements (it’s a vicious cycle), hiking, and travelling!"*
 
 <img id="team-img" src="/assets/img/grids_team_2021/megan_josep.jpg"/>
 
-Megan Josep, Head of Programs [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
+Megan Josep, Co-President [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
 
 *"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication. My days are now filled with coffee, yoga, binging Netflix shows, and zoom classes."*
 
