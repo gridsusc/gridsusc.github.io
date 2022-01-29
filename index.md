@@ -55,6 +55,8 @@ Be a part of USC's premier graduate student data science organization!
  
 ## How to become a member:
 To be a member of GRIDS, submit our [signup form](https://forms.gle/FDC4xnDmSBJNC8SN7) and Venmo your semester dues to **@gridsusc**. Dues are $10 per semester for new members and $5 per semester for returning GRIDSters. 
+
+*Please note:* If you are a fully online DEN student, you are not required to pay semester dues.
  
 ## Why be a GRIDS Member?
 Membership in GRIDS provides:
