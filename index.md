@@ -14,7 +14,8 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 *Please note that all our event timings are as per PST.*
 
 - *January 28th 4-6pm* - GRIDS x CKIDS DataFest S22 Kickoff Event
-- *February 15th (Time TBD)* - GitHub Info Session
+- *February 10th 7-8pm* - GRIDS Workshop: Interrupted Time Series. [Zoom link](https://usc.zoom.us/j/8891714260)
+- *February 15th 4-5pm* - GRIDS Career Talk: GitHub. [RSVP here](https://bit.ly/3HCMa07)
 - *February 28th 6pm* - GRIDS Talk with Dr. Fred Morstatter
 - *March 7th 5pm* - GRIDS Talk with Dr. Abigail Horn
 - *March 11th 4-6pm* - DataFest Midterm Event
