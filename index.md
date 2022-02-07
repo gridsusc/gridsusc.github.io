@@ -24,7 +24,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Past Events
 
 ## Spring 2022
-- *January 28th 4-6pm* - GRIDS x CKIDS DataFest S22 Kickoff Event
+- *(January 28th, 2022)m* - GRIDS x CKIDS DataFest S22 Kickoff Event
 
 ## Fall 2021
 - *(August 30th, 2021)* GRIDS x CKIDS DataFest F21 Kickoff Event. Check out the DataFest project descriptions [here](https://sites.usc.edu/ckids/datafest-f21-fall-2021/).
