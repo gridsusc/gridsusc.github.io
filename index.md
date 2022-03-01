@@ -13,7 +13,6 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 *Please note that all our event timings are as per PST.*
 
-- *February 15th 4-5pm* - GRIDS Career Talk: GitHub. [RSVP here](https://bit.ly/3HCMa07)
 - *February 28th 6pm* - GRIDS Talk with Dr. Fred Morstatter
 - *March 7th 5pm* - GRIDS Talk with Dr. Abigail Horn
 - *March 11th 4-6pm* - DataFest Midterm Event
@@ -23,6 +22,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Past Events
 
 ## Spring 2022
+- *(February 15th 4-5pm)* - GRIDS Career Talk: GitHub.
 - *(January 28th, 2022)* - GRIDS x CKIDS DataFest S22 Kickoff Event
 - *(February 10th, 2022)* - GRIDS Workshop: Interrupted Time Series
 
