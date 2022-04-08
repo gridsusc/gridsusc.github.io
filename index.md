@@ -12,9 +12,9 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 ## Spring 2022
 
 *Please note that all our event timings are as per PST.*
-- *March 28th 7-8pm* - GRIDS Talk: Alumni Industry Panel @ SLH 100
-- *March 30th 7-9pm* - GRIDS Office Hours @ Leavey Library 2nd Floor Room 212I/[Zoom](https://usc.zoom.us/j/96721845791)
+- *Wednesdays 7-9pm* - GRIDS Office Hours @ Leavey Library 2nd Floor Room 202I /[Zoom](https://usc.zoom.us/j/96721845791)
 - *April 20th 4:30pm* - GRIDS Career Talk: NASA
+- *April 22nd 12:30pm* - GRIDS Workshop: Journey to Google
 - *April 22nd 4-6pm* - DataFest Final Event
 
 # Past Events
@@ -28,6 +28,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 - *(March 11th, 2022)* - DataFest Midterm Event
 - *(March 22nd, 2022)* - GRIDS Career Talk: Disney Streaming
 - *(March 24th, 2022)* - GRIDS Talk: Bridging the Gap Between Analyst and Business Types
+- *(March 28th, 2022)* - GRIDS Talk: Alumni Industry Panel
 
 ## Fall 2021
 - *(August 30th, 2021)* GRIDS x CKIDS DataFest F21 Kickoff Event. Check out the DataFest project descriptions [here](https://sites.usc.edu/ckids/datafest-f21-fall-2021/).
