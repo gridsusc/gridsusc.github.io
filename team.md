@@ -17,19 +17,21 @@ Megan Josep, Co-President [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
 
 *"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication. My days are now filled with coffee, yoga, binging Netflix shows, and zoom classes."*
 
-<!-- <img id="team-img" src="/> -->
+<img id="team-img" src="/assets/img/grids_team_2021/Matt_Fishman.jpeg"/>
 
-Matthew Fishman, Head of Community/ Outreach
+Matthew Fishman, Vice President of Outreach & External Affairs
+
+*"Hi everyone! My name is Matt. I am currently a Master’s candidate pursuing a degree in Data Science. My undergraduate education was also at USC with a large focus on finance, studying Real Estate Development and Business Administration. I am fascinated by the sociological and ethical impacts of big data across intersectional communities. In my free time you can find me at the beach surfing, swimming pier to pier, or sneaking my 200 pound mastiff and 20 pound frenchie onto the sand."*
 
 <img id="team-img" src="/assets/img/grids_team_2021/erin_szeto.jpg"/>
 
-Erin Szeto, Head of Social Media
+Erin Szeto, Vice President of Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/erinszeto/)]
 
 *Hi, I am a second year masters student studying Applied Data Science. I have an interest in data engineering and solving problems with machine learning. I enjoy learning new things and technologies, and in my free time, I like to practice photography, crochet, and play board games and computer games with friends.*
 
 <img id="team-img" src="/assets/img/grids_team_2021/jonny_lal.jpg"/>
 
-Jonathan Lal, Head of Technical Development [[Linkedin](https://www.linkedin.com/in/JonnyLal/)] [[Website](https://jonnylal.github.io/)]
+Jonathan Lal, Vice President of Technical Development [[Linkedin](https://www.linkedin.com/in/JonnyLal/)] [[Website](https://jonnylal.github.io/)]
 
 *Hi, I’m Jonny! Former ChemE student pursuing a Master's in Computer Science. I enjoy building and learning cool new things, whether it’s a new library or framework; or tinkering with cars or computer hardware. Inadvertently sometimes I end up breaking things although that’s part of the fun to try and make something work correctly. I also enjoy playing guitar, drums, harmonica, riding my bike along the beach, and trying to surf but end up fighting to stay afloat.*
 
