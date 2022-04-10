@@ -13,8 +13,9 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 *Please note that all our event timings are as per PST.*
 - *Wednesdays 7-9pm* - GRIDS Office Hours @ Leavey Library 2nd Floor Room 202I / [Zoom](https://usc.zoom.us/j/96721845791)
+- *April 13th 4:30pm* - GRIDS Career Talk: Booz Allen Hamilton
+- *April 15th-16th 5pm-5pm* - GRIDS Hackathon: MindSpark
 - *April 20th 4:30pm* - GRIDS Career Talk: NASA
-- *April 15th-16th 5pm-5pm* - GRIDS Hackathon
 - *April 22nd 12:30pm* - GRIDS Workshop: Journey to Google
 - *April 22nd 4-6pm* - DataFest Final Event
 
