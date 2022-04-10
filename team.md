@@ -23,18 +23,61 @@ Matthew Fishman, Vice President of Outreach & External Affairs
 
 *"Hi everyone! My name is Matt. I am currently a Master’s candidate pursuing a degree in Data Science. My undergraduate education was also at USC with a large focus on finance, studying Real Estate Development and Business Administration. I am fascinated by the sociological and ethical impacts of big data across intersectional communities. In my free time you can find me at the beach surfing, swimming pier to pier, or sneaking my 200 pound mastiff and 20 pound frenchie onto the sand."*
 
-<img id="team-img" src="/assets/img/grids_team_2021/erin_szeto.jpg"/>
-
-Erin Szeto, Vice President of Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/erinszeto/)]
-
-*Hi, I am a second year masters student studying Applied Data Science. I have an interest in data engineering and solving problems with machine learning. I enjoy learning new things and technologies, and in my free time, I like to practice photography, crochet, and play board games and computer games with friends.*
-
 <img id="team-img" src="/assets/img/grids_team_2021/jonny_lal.jpg"/>
 
 Jonathan Lal, Vice President of Technical Development [[Linkedin](https://www.linkedin.com/in/JonnyLal/)] [[Website](https://jonnylal.github.io/)]
 
-*Hi, I’m Jonny! Former ChemE student pursuing a Master's in Computer Science. I enjoy building and learning cool new things, whether it’s a new library or framework; or tinkering with cars or computer hardware. Inadvertently sometimes I end up breaking things although that’s part of the fun to try and make something work correctly. I also enjoy playing guitar, drums, harmonica, riding my bike along the beach, and trying to surf but end up fighting to stay afloat.*
+*"Hi, I’m Jonny! Former ChemE student pursuing a Master's in Computer Science. I enjoy building and learning cool new things, whether it’s a new library or framework; or tinkering with cars or computer hardware. Inadvertently sometimes I end up breaking things although that’s part of the fun to try and make something work correctly. I also enjoy playing guitar, drums, harmonica, riding my bike along the beach, and trying to surf but end up fighting to stay afloat."*
 
+<img id="team-img" src="/assets/img/grids_team_2021/erin_szeto.jpg"/>
+
+Erin Szeto, Vice President of Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/erinszeto/)]
+
+*"Hi, I am a second year masters student studying Applied Data Science. I have an interest in data engineering and solving problems with machine learning. I enjoy learning new things and technologies, and in my free time, I like to practice photography, crochet, and play board games and computer games with friends."*
+
+<img id="team-img" src="/assets/img/grids_team_2021/Megan_Bull.jpg"/>
+
+Megan Bull, Outreach & External Affairs [[LinkedIn](https://www.linkedin.com/in/megankbull/)]
+
+<img id="team-img" src="/assets/img/grids_team_2021/Mridul_Jhawar.JPG"/>
+
+Mridul Jhawar, Outreach & External Affairs [[LinkedIn](https://www.linkedin.com/in/mridul-jhawar-4b08b4189/)]
+
+Praveen Iyer, Outreach & External Affairs
+
+Yoshitha Akunuri, Outreach & External Affairs
+
+*"Hello Everyone! I'm Yoshitha and I'm pursuing a Masters in Computer Science (Artificial Intelligence) at USC. I enjoy mastering new skills and transforming the ideas into a reality."*
+
+<img id="team-img" src="/assets/img/grids_team_2021/Bidisha_Baksi.png"/>
+
+Bidisha Das Baksi, Technical Development
+
+<img id="team-img" src="/assets/img/grids_team_2021/Nikita_Goel.jpg"/>
+
+Nikita Goel, Technical Development [[LinkedIn](https://www.linkedin.com/in/nikitagoel23/)]
+
+<img id="team-img" src="/assets/img/grids_team_2021/Parth_Kapadia.jpg"/>
+
+Parth Kapadia, Technical Development [[LinkedIn](https://in.linkedin.com/in/parthkap)] [[Website](https://parthkapadia.netlify.app/)]
+
+<img id="team-img" src="/assets/img/grids_team_2021/Satwant_Singh.png"/>
+
+Satwant Singh, Technical Development [[LinkedIn](https://www.linkedin.com/in/satwant-singh201/)] [[Website](https://satwant-ds.github.io/Satwant-DS/)]
+
+*"Hi there, I’m Satwant currently pursuing a Masters in Applied Data Science degree here at USC. I’m a seasoned Data Scientist with proven experience in the field of Financial Risk Modelling. I like to solve business problems leveraging both probabilistic & inferential models. Outside of my studies, I like to go trekking. Next thing I am gonna try this summer is skydiving in San Diego and short trek in Yosemite"*
+
+<img id="team-img" src="/assets/img/grids_team_2021/Kanish_Shah.PNG"/>
+
+Kanish Shah, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/kanish-shah/)]
+
+<img id="team-img" src="/assets/img/grids_team_2021/Sahil_Shingala.jpeg"/>
+
+Sahil Shingala, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/sahil-shingala-8742b419b)] [[Website](https://sahilshingala.netlify.app/)]
+
+<img id="team-img" src="/assets/img/grids_team_2021/Smeet_dhakecha.jpg"/>
+
+Smeet Dhakecha, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/smeetdhakecha)]
 
 # GRIDS Leadership Alumni
 
