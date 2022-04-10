@@ -61,6 +61,10 @@ Nikita Goel, Technical Development [[LinkedIn](https://www.linkedin.com/in/nikit
 
 Parth Kapadia, Technical Development [[LinkedIn](https://in.linkedin.com/in/parthkap)] [[Website](https://parthkapadia.netlify.app/)]
 
+<img id="team-img" src="/assets/img/grids_team_2021/Prashant_Singh.jpeg"/>
+
+Prashant Singh, Technical Development
+
 <img id="team-img" src="/assets/img/grids_team_2021/Satwant_Singh.png"/>
 
 Satwant Singh, Technical Development [[LinkedIn](https://www.linkedin.com/in/satwant-singh201/)] [[Website](https://satwant-ds.github.io/Satwant-DS/)]
