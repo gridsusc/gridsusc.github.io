@@ -5,85 +5,104 @@ permalink: /team/
 ---
 ## Our Team
 
-<img id="team-img" src="/assets/img/grids_team_2020/madi_thompson.png"/>
+<img id="team-img" src=""/>
 
-Madeleine Thompson, Co-President [[LinkedIn](https://www.linkedin.com/in/madeleine-jane-thompson/)]
+Prashant Singh, President [[LinkedIn](https://www.linkedin.com/in/prashant3141/)]
 
-*"Hi there, I’m Madi and I’m pursuing my Masters in Applied Data Science here at USC. I’m really interested in using data science to augment the scientific research process and making data science tools and technologies accessible to scientists and professionals. Outside of my studies, I enjoy trying out new vegan recipes, killing my houseplants and buying replacements (it’s a vicious cycle), hiking, and travelling!"*
+<img id="team-img" src=""/>
 
-<img id="team-img" src="/assets/img/grids_team_2021/megan_josep.jpg"/>
+Satwant Singh, Vice President of Tech [[LinkedIn](https://www.linkedin.com/in/satwant-singh201/)]
 
-Megan Josep, Co-President [[LinkedIn](https://www.linkedin.com/in/megjosep/)]
+<img id="team-img" src=""/>
 
-*"Hi everyone! I’m passionate about applying data science in the fields of marketing and communication. My days are now filled with coffee, yoga, binging Netflix shows, and zoom classes."*
+Mridul Jhawar, Vice President of Outreach [[LinkedIn](https://www.linkedin.com/in/mridul-jhawar/)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/Matt_Fishman.jpeg"/>
+<img id="team-img" src=""/>
 
-Matthew Fishman, Vice President of Outreach & External Affairs
+Jonathan Farrell Kusuma, Vice President of Marketing [[LinkedIn](https://www.linkedin.com/in/joekusuma/)]
 
-*"Hi everyone! My name is Matt. I am currently a Master’s candidate pursuing a degree in Data Science. My undergraduate education was also at USC with a large focus on finance, studying Real Estate Development and Business Administration. I am fascinated by the sociological and ethical impacts of big data across intersectional communities. In my free time you can find me at the beach surfing, swimming pier to pier, or sneaking my 200 pound mastiff and 20 pound frenchie onto the sand."*
+<img id="team-img" src=""/>
 
-<img id="team-img" src="/assets/img/grids_team_2021/jonny_lal.jpg"/>
+Vatsal Khandor, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/khandorvatsal/)]
 
-Jonathan Lal, Vice President of Technical Development [[Linkedin](https://www.linkedin.com/in/JonnyLal/)] [[Website](https://jonnylal.github.io/)]
+<img id="team-img" src=""/>
 
-*"Hi, I’m Jonny! Former ChemE student pursuing a Master's in Computer Science. I enjoy building and learning cool new things, whether it’s a new library or framework; or tinkering with cars or computer hardware. Inadvertently sometimes I end up breaking things although that’s part of the fun to try and make something work correctly. I also enjoy playing guitar, drums, harmonica, riding my bike along the beach, and trying to surf but end up fighting to stay afloat."*
+Chanavi Singh, Member of Tech [[LinkedIn](https://www.linkedin.com/in/chanavi-singh/)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/erin_szeto.jpg"/>
+<img id="team-img" src=""/>
 
-Erin Szeto, Vice President of Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/erinszeto/)]
+Ketki Kinkar, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/ketkikinkar)]
 
-*"Hi, I am a second year masters student studying Applied Data Science. I have an interest in data engineering and solving problems with machine learning. I enjoy learning new things and technologies, and in my free time, I like to practice photography, crochet, and play board games and computer games with friends."*
+<img id="team-img" src=""/>
 
-<img id="team-img" src="/assets/img/grids_team_2021/Megan_Bull.jpg"/>
+Abiola Johnson, Member of Marketing [[LinkedIn](https://www.linkedin.com/in/abiolajohnson)]
 
-Megan Bull, Outreach & External Affairs [[LinkedIn](https://www.linkedin.com/in/megankbull/)]
+<img id="team-img" src=""/>
 
-<img id="team-img" src="/assets/img/grids_team_2021/Mridul_Jhawar.JPG"/>
+Manish Gawali, Member of Tech [[LinkedIn](https://www.linkedin.com/in/manish-gawali/)]
 
-Mridul Jhawar, Outreach & External Affairs [[LinkedIn](https://www.linkedin.com/in/mridul-jhawar-4b08b4189/)]
+<img id="team-img" src=""/>
 
-Praveen Iyer, Outreach & External Affairs
+Anvitha Chegu, Member of Marketing [[LinkedIn](https://www.linkedin.com/in/anvitha-chegu-4a38731b7/)]
 
-Yoshitha Akunuri, Outreach & External Affairs
+<img id="team-img" src=""/>
 
-*"Hello Everyone! I'm Yoshitha and I'm pursuing a Masters in Computer Science (Artificial Intelligence) at USC. I enjoy mastering new skills and transforming the ideas into a reality."*
+Pranjal Sharma, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/pranjal1998/)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/Bidisha_Baksi.png"/>
+<img id="team-img" src=""/>
 
-Bidisha Das Baksi, Technical Development
+Yuko Ohmori, Member of Tech [[LinkedIn](https://www.linkedin.com/in/yuko-ohmori)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/Nikita_Goel.jpg"/>
+<img id="team-img" src=""/>
 
-Nikita Goel, Technical Development [[LinkedIn](https://www.linkedin.com/in/nikitagoel23/)]
+Yoshitha Akunuri, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/yoshitha-akunuri/)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/Parth_Kapadia.jpg"/>
+<img id="team-img" src=""/>
 
-Parth Kapadia, Technical Development [[LinkedIn](https://in.linkedin.com/in/parthkap)] [[Website](https://parthkapadia.netlify.app/)]
+Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)]
 
-<img id="team-img" src="/assets/img/grids_team_2021/Prashant_Singh.jpeg"/>
+<img id="team-img" src=""/>
 
-Prashant Singh, Technical Development
-
-<img id="team-img" src="/assets/img/grids_team_2021/Satwant_Singh.png"/>
-
-Satwant Singh, Technical Development [[LinkedIn](https://www.linkedin.com/in/satwant-singh201/)] [[Website](https://satwant-ds.github.io/Satwant-DS/)]
-
-*"Hi there, I’m Satwant currently pursuing a Masters in Applied Data Science degree here at USC. I’m a seasoned Data Scientist with proven experience in the field of Financial Risk Modelling. I like to solve business problems leveraging both probabilistic & inferential models. Outside of my studies, I like to go trekking. Next thing I am gonna try this summer is skydiving in San Diego and short trek in Yosemite"*
-
-<img id="team-img" src="/assets/img/grids_team_2021/Kanish_Shah.PNG"/>
-
-Kanish Shah, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/kanish-shah/)]
-
-<img id="team-img" src="/assets/img/grids_team_2021/Sahil_Shingala.jpeg"/>
-
-Sahil Shingala, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/sahil-shingala-8742b419b)] [[Website](https://sahilshingala.netlify.app/)]
-
-<img id="team-img" src="/assets/img/grids_team_2021/Smeet_dhakecha.jpg"/>
-
-Smeet Dhakecha, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/in/smeetdhakecha)]
 
 # GRIDS Leadership Alumni
+
+
+## Fall 2020 - Spring 2021 Leadership Team
+
+[Madeleine Thompson](https://www.linkedin.com/in/madeleine-jane-thompson/) - Co-President
+
+[Megan Josep](https://www.linkedin.com/in/megjosep/) - Co-President
+
+[Matthew Fishman](https://www.linkedin.com/in/matthew-fishman/) - Vice President of Outreach & External Affairs
+
+[Jonathan Lal](https://www.linkedin.com/in/JonnyLal/) - Vice President of Technical Development
+
+[Erin Szeto](https://www.linkedin.com/in/erinszeto/) - Vice President of Marketing & Digital Media
+
+[Megan Bull](https://www.linkedin.com/in/megankbull/) - Outreach & External Affairs
+
+[Mridul Jhawar](https://www.linkedin.com/in/mridul-jhawar-4b08b4189/) - Outreach & External Affairs
+
+Praveen Iyer - Outreach & External Affairs
+
+[Yoshitha Akunuri](https://www.linkedin.com/in/yoshitha-akunuri-8a28601b9/) - Outreach & External Affairs
+
+[Bidisha Das Baksi](https://www.linkedin.com/in/bidisha-das-baksi-59a94216a/) - Technical Development
+
+[Nikita Goel](https://www.linkedin.com/in/nikitagoel23/) - Technical Development
+
+[Parth Kapadia](https://in.linkedin.com/in/parthkap) - Technical Development
+
+Prashant Singh - Technical Development
+
+[Satwant Singh](https://www.linkedin.com/in/satwant-singh201/) - Technical Development
+
+[Kanish Shah](https://www.linkedin.com/in/kanish-shah/) - Marketing & Digital Media
+
+[Sahil Shingala](https://www.linkedin.com/in/sahil-shingala-8742b419b) - Marketing & Digital Media
+
+[Smeet Dhakecha](https://www.linkedin.com/in/smeetdhakecha) - Marketing & Digital Media
+
 
 ## Fall 2020 - Spring 2021 Leadership Team
 
@@ -129,4 +148,3 @@ Smeet Dhakecha, Marketing & Digital Media [[LinkedIn](https://www.linkedin.com/i
 [Sandeep Venkatesh](https://urldefense.com/v3/__https://www.linkedin.com/in/rvsandeep/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZi0FqnMJo$) - Head of Community Relations
 
 [Adam Vaccaro](https://www.linkedin.com/in/advaccaro) - Head of Technical Development
-

@@ -9,12 +9,18 @@ layout: page
 Graduates Rising in Information and Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering's Department of Computer Science. Our mission is to advance the academic and professional interests of Informatics, Data Science, and Computer Science students at USC through experiential learning, corporate partnerships, and engaging networking opportunities that build community.
 
 # Upcoming Events
-## Fall 2022
+## Spring 2023
 
 *Please note that all our event timings are as per PST.*
-- *September 28th, 7pm - 9pm (Tentative)* - GRIDS Social Night 
+- *March 8th, 7pm - 9pm (Tentative)* - GRIDS Social Night
+- *March 2nd, 7pm - 8pm* - Graph Neural Networks: From Threory to Practice
 
 # Past Events
+## Spring 2023
+- *(February 16th, 2023)* - Resume Review
+
+## Fall 2022
+- *(September 28th, 2022)* - GRIDS Social Night
 
 ## Fall 2022
 - *(September 8th, 2022)* - GRIDS x CKIDS DataFest S22 Kickoff Event
@@ -65,12 +71,12 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 # Membership
 
 Be a part of USC's premier graduate student data science organization!
- 
+
 ## How to become a member:
-To be a member of GRIDS, submit our [signup form](https://forms.gle/FDC4xnDmSBJNC8SN7) and Venmo your semester dues to **@gridsusc**. Dues are $10 per semester for new members and $5 per semester for returning GRIDSters. 
+To be a member of GRIDS, submit our [signup form](https://forms.gle/FDC4xnDmSBJNC8SN7) and Venmo your semester dues to **@gridsusc**. Dues are $10 per semester for new members and $5 per semester for returning GRIDSters.
 
 *Please note:* If you are a fully online DEN student, you are not required to pay semester dues.
- 
+
 ## Why be a GRIDS Member?
 Membership in GRIDS provides:
 - Priority at all GRIDS-related events, including technical workshops and industry recruiting sessions
