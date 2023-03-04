@@ -21,8 +21,6 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 ## Fall 2022
 - *(September 28th, 2022)* - GRIDS Social Night
-
-## Fall 2022
 - *(September 8th, 2022)* - GRIDS x CKIDS DataFest S22 Kickoff Event
 
 ## Spring 2022
