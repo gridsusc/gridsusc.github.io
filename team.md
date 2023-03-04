@@ -5,64 +5,61 @@ permalink: /team/
 ---
 ## Our Team
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Prashant_headshot.jpeg"/>
 
 Prashant Singh, President [[LinkedIn](https://www.linkedin.com/in/prashant3141/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Satwant_Singh.jpg"/>
 
 Satwant Singh, Vice President of Tech [[LinkedIn](https://www.linkedin.com/in/satwant-singh201/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Mridul_headshot%202.jpeg"/>
 
 Mridul Jhawar, Vice President of Outreach [[LinkedIn](https://www.linkedin.com/in/mridul-jhawar/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Jonathan_Picture(VP).jpeg"/>
 
 Jonathan Farrell Kusuma, Vice President of Marketing [[LinkedIn](https://www.linkedin.com/in/joekusuma/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/VatsalKhandor.jpg"/>
 
 Vatsal Khandor, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/khandorvatsal/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Chanavi_Singh_Headshot.jpg"/>
 
 Chanavi Singh, Member of Tech [[LinkedIn](https://www.linkedin.com/in/chanavi-singh/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Ketki_Kinkar_Photo.png"/>
 
 Ketki Kinkar, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/ketkikinkar)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/abiola.jpg"/>
 
 Abiola Johnson, Member of Marketing [[LinkedIn](https://www.linkedin.com/in/abiolajohnson)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Manish_Gawali_Headshot.jpg"/>
 
 Manish Gawali, Member of Tech [[LinkedIn](https://www.linkedin.com/in/manish-gawali/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/AnvithaCheguAshokkumar.png"/>
 
 Anvitha Chegu, Member of Marketing [[LinkedIn](https://www.linkedin.com/in/anvitha-chegu-4a38731b7/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/panjal.png"/>
 
 Pranjal Sharma, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/pranjal1998/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/yuko.jpeg"/>
 
 Yuko Ohmori, Member of Tech [[LinkedIn](https://www.linkedin.com/in/yuko-ohmori)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/"/>
 
 Yoshitha Akunuri, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/yoshitha-akunuri/)]
 
-<img id="team-img" src=""/>
+<img id="team-img" src="/assets/img/grids_team_2023/Shriya_Padhi_Headshot.jpg"/>
 
-Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)]
-
-<img id="team-img" src=""/>
-
+Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)] 
 
 # GRIDS Leadership Alumni
 
