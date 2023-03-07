@@ -14,8 +14,9 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 _Please note that all our event timings are as per PST._
 
-- _March 8th, 7pm - 9pm (Tentative)_ - GRIDS Social Night
-- _March 2nd, 7pm - 8pm_ - Graph Neural Networks: From Threory to Practice
+- _March 8th, 7pm - 9pm_ - GRIDS Social Night
+- _March 23rd_ - The PowerBI and Tableau Workshop
+- _March 30th_ - The GitHub Workshop
 
 # Past Events
 
