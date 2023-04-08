@@ -66,6 +66,10 @@ Yoshitha Akunuri, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/yos
 
 Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)]
 
+<img id="team-img" src="/assets/img/grids_team_2023/Aryan1.jpg"/>
+
+Aryan Gandhi, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/aryan-gandhi-720871179)] 
+
 # GRIDS Leadership Alumni
 
 ## Fall 2020 - Spring 2021 Leadership Team
