@@ -3,6 +3,7 @@ layout: default
 title: Our Team
 permalink: /team/
 ---
+
 ## Our Team
 
 <img id="team-img" src="/assets/img/grids_team_2023/Prashant_headshot.jpeg"/>
@@ -33,6 +34,10 @@ Chanavi Singh, Member of Tech [[LinkedIn](https://www.linkedin.com/in/chanavi-si
 
 Ketki Kinkar, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/ketkikinkar)]
 
+<img id="team-img" src="/assets/img/grids_team_2023/anjali_singh.jpeg"/>
+
+Anjali Singh, Member of Marketing [[LinkedIn](http://www.linkedin.com/in/anjali-singh-ab166522a)]
+
 <img id="team-img" src="/assets/img/grids_team_2023/abiola.jpg"/>
 
 Abiola Johnson, Member of Marketing [[LinkedIn](https://www.linkedin.com/in/abiolajohnson)]
@@ -59,10 +64,9 @@ Yoshitha Akunuri, Member of Outreach [[LinkedIn](https://www.linkedin.com/in/yos
 
 <img id="team-img" src="/assets/img/grids_team_2023/Shriya_Padhi_Headshot.jpg"/>
 
-Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)] 
+Shriya Padhi, Member of Tech [[LinkedIn](https://www.linkedin.com/in/shriya-padhi-033a88185)]
 
 # GRIDS Leadership Alumni
-
 
 ## Fall 2020 - Spring 2021 Leadership Team
 
@@ -100,7 +104,6 @@ Prashant Singh - Technical Development
 
 [Smeet Dhakecha](https://www.linkedin.com/in/smeetdhakecha) - Marketing & Digital Media
 
-
 ## Fall 2020 - Spring 2021 Leadership Team
 
 [Haripriya Dharmala](https://www.linkedin.com/in/haripriya-dharmala/) - President
@@ -133,12 +136,11 @@ Prashant Singh - Technical Development
 
 [Malika Seth](https://www.linkedin.com/in/malika-seth-090b69144/) - Head of Social Media
 
-
 ## Fall 2017 - Fall 2018 Leadership Team
 
 [Seun Deleawe](https://urldefense.com/v3/__https://www.linkedin.com/in/seundeleawe/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZibc4WyUs$) - Founder and President
 
-*Seun founded GRIDS in Fall 2017. This effort included naming the organization, defining the mission, designing the logo, socializing the idea with Viterbi faculty/staff, and registering GRIDS as a USC Recognized Student Organization (RSO).*
+_Seun founded GRIDS in Fall 2017. This effort included naming the organization, defining the mission, designing the logo, socializing the idea with Viterbi faculty/staff, and registering GRIDS as a USC Recognized Student Organization (RSO)._
 
 [Fay Qiu](https://urldefense.com/v3/__https://www.linkedin.com/in/fay-qiu-28409292/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZiolAxX7Q$) - Head of Programs
 
