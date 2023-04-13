@@ -7,7 +7,7 @@ permalink: /blog/
 ## Resume Review
 
 ![alt-text](/assets/img/resume_workshop/IMG_5586.jpeg "workshop")
-This event was designed to help students create a professional and effective resume that highlights their skills and experience. The workshop was led by the graduating masters students with succesful job hunting campaigns! They offer thier insights and tips in attracting the best companies by helping students build thwie resumes form the grsound up!
+This event was designed to help students create a professional and effective resume that highlights their skills and experience. The workshop was led by the graduating masters students with succesful job hunting campaigns! They offer thier insights and tips in attracting the best companies by helping students build thwie resumes form the ground up!
 
 During the workshop, participants were encouraged to reflect on their own experiences and skills and to brainstorm ways to showcase them in their resumes. They were asked to complete exercises or activities to help them identify their strengths and accomplishments and to develop language to describe them in their resumes.
 
@@ -58,3 +58,21 @@ During the hands-on sessions, attendees had access to experienced trainers who p
 Moreover, the workshop included a Q&A session where attendees could ask questions and share their experiences with each other. The session provided a platform for participants to connect with other data enthusiasts and share insights and ideas.
 
 Overall, the PowerBI and Tableau event workshop was a great success, and the attendees left the event with valuable insights and a better understanding of how to use these powerful data visualization tools. The workshop provided an opportunity for attendees to expand their knowledge and skills in a collaborative and engaging way.
+
+## Github Workshop
+
+![alt-text](/assets/img/powerBI_and_Tableau/DSC01671.JPG "Github Wokrshop")
+
+The event was hosted by a the current president of GRIDS Prashant Singh! The workship was aimed to introduce GitHub and basic Git commands to beginners!
+
+The workshop started with an introduction to GitHub, which covered the basics of version control, repositories, commits, branches, and pull requests. The instructor also explained how GitHub can be used to collaborate with others and manage version control in projects.
+
+After the introduction, experienced devlopers and advocates of Github walked the attendees through the process of setting up Git on their computers and configuring their user information. The attendees then learned how to create a new repository on GitHub and clone it to their local computer using Git.
+
+The instructors then taught the attendees how to make changes to files in the repository and commit those changes using Git. They also explained how to use the Git status, add, and commit commands.
+
+The attendees also learned about branching and merging using Git. They learned how to create a new branch in Git and switch between branches. They also learned how to merge changes from one branch to another using Git and how to resolve conflicts that may arise when merging changes.
+
+Towards the end of the workshop, the attendees learned how to collaborate with others on a GitHub repository by adding collaborators, reviewing pull requests, and resolving conflicts. The instructors also provided some tips on how to use Git and GitHub effectively.
+
+The workshop was a success, with over 30 attendees from diverse backgrounds and skill levels. The attendees appreciated the hands-on approach of the workshop and found it helpful in building their understanding of Git and GitHub.
