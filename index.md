@@ -12,10 +12,12 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 <link href="http://cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 
 <style type="text/css">
-#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:600px;}
-/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-
+#mc_embed_signup{
+    background:#fff; 
+    clear:left; 
+    font:14px Helvetica,Arial,sans-serif; 
+    width:600px;
+}
 </style>
 <div id="mc_embed_signup">
 <form action="https://github.us19.list-manage.com/subscribe/post?u=45655a68038817a764288bbe4&amp;id=1019d0c550&amp;f_id=00c395e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -49,9 +51,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
 ## Spring 2023
 
-_Please note that all our event timings are as per PST._
-
-- _April 19th_ - GRIDS Resume review
+_No more events this semester_
 
 # Past Events
 
