@@ -9,14 +9,14 @@ layout: page
 Graduates Rising in Information and Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering's Department of Computer Science. Our mission is to advance the academic and professional interests of Informatics, Data Science, and Computer Science students at USC through experiential learning, corporate partnerships, and engaging networking opportunities that build community.
 
 <div class="clear foot">
-<input type="submit" value="Join our Newsletter mailing list" name="subscribe" id="mc-embedded-subscribe">
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 </div>
 
 # Upcoming Events
 
 ## Spring 2023
 
-_No more events this semester_
+- _(April 27th)_ - [Data Science and Analytics in Business]()
 
 # Past Events
 
@@ -27,6 +27,7 @@ _No more events this semester_
 - _(March 13th)_ - [Social Night](/blog.md#social-night)
 - _(March 23rd, 2023)_ - [PowerBI and Tableau Workshop](/blog.md#powerbi-and-tableau-event)
 - _(April 6th)_ - [The Github Workshop](/blog.md)
+- _(April 21st)_ - [Data Science and US Space Force]()
 
 ## Fall 2022
 
