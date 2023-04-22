@@ -11,11 +11,12 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 <div id="mc_embed_signup">
 <form action="https://github.us19.list-manage.com/subscribe/post?u=45655a68038817a764288bbe4&amp;id=1019d0c550&amp;f_id=00c395e4f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<h2>Join our Newsletter mailing list</h2>
+<h4>Join our Newsletter mailing list</h4>
 <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="optionalParent">
 <div class="clear foot">
+
 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 </div>
 </div>
@@ -26,7 +27,7 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 ## Spring 2023
 
-_No more events this semester_
+- _(April 27th)_ - [Data Science and Analytics in Business]()
 
 # Past Events
 
@@ -36,7 +37,8 @@ _No more events this semester_
 - _(March 2nd, 2023)_ - [Graph Neural Networks (GNN): Theory to Practice](/blog.md#graph-neural-networks-from-theory-to-practice)
 - _(March 13th)_ - [Social Night](/blog.md#social-night)
 - _(March 23rd, 2023)_ - [PowerBI and Tableau Workshop](/blog.md#powerbi-and-tableau-event)
-- _(April 6th)_ - [The Github Workshop](/blog.md)
+- _(April 6th)_ - [The Github Workshop](/blog.md#github-workshop)
+- _(April 21st)_ - [Data Science and US Space Force](/blog.md#data-science-and-us-space-force)
 
 ## Fall 2022
 
