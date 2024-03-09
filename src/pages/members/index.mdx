@@ -49,9 +49,9 @@ export const MemberList = () => {
 const RenderMembers = ({memberList}) =>{
 console.log(memberList);
 
-return <div className={`member-list flex flex-row gap-5 justify-between`}>
+return <div className={`member-list flex flex-col gap-5 justify-between sm:flex-row`}>
 {memberList.map((member) => {
-return <div className={'member'}>
+return <div className={'member flex flex-row justify-center sm:flex-col'}>
 
 <div className={'photo'}>
 <img src ={photoMap[member.photoKey]}/>
@@ -71,7 +71,7 @@ memberJson.teams.map(team => (
 
 <div className={`team`}>
   <h3>{team.name}</h3>
-  <div className={'member'}>
+  <div className={'member flex flex-row justify-center sm:flex-col'}>
 
 <div className={'photo'}>
 <img src ={photoMap[team.vp[0].photoKey]}/>
@@ -85,7 +85,7 @@ memberJson.teams.map(team => (
 
 )) )}
 
-return <div className={'flex flex-col gap-3'}><RenderTeams/></div>;
+return <div className={'flex flex-col gap-8'}><RenderTeams/></div>;
 };
 
 # Members
