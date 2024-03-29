@@ -6,7 +6,7 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 const config: Config = {
   title: 'GRIDS',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -61,10 +61,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'GRIDS @ USC',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -74,6 +74,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/about-us', label: 'About Us', position: 'left'},
+        {to: '/blog', label: 'Blogs', position: 'left'},
       ],
     },
     footer: {
@@ -109,8 +110,8 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Blogs',
+              to: '/blogs',
             },
             {
               label: 'GitHub',
