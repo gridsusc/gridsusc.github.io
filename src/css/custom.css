@@ -91,3 +91,24 @@
 .col.col--2 {
   display: none !important;
 }
+
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 55px;
+}
+
+[data-theme='light'] body {
+  background-color: #FBFBFB !important;
+}
+
+.footer {
+  padding-bottom: 10px;
+}
+
+[data-theme='dark'] .footer {
+  background-color: #46106157 !important;
+}
+
+.footer__copyright {
+  font-weight: 600;
+}
