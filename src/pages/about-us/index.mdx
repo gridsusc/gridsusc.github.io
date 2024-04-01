@@ -1,0 +1,98 @@
+import { memberJson } from "./members.tsx";
+import aniket from "./headshots/aniket.jpeg";
+import chahat from "./headshots/chahat.jpg";
+import daksh from "./headshots/daksh.jpg";
+import ekaterina from "./headshots/ekaterina.jpg";
+import kohta from "./headshots/kohta.jpeg";
+import miral from "./headshots/miral.jpg";
+import ruchit from "./headshots/ruchit.jpeg";
+import shrey from "./headshots/shrey.jpeg";
+import spurthy from "./headshots/spurthy.png";
+import vatsal from "./headshots/vatsal.jpg";
+import anjali from "./headshots/anjali.jpeg";
+import christopher from "./headshots/christopher.jpg";
+import devashish from "./headshots/devashish.jpeg";
+import ishaan from "./headshots/ishaan.jpg";
+import mandy from "./headshots/mandy.jpeg";
+import ravneet from "./headshots/ravneet.png";
+import satyajit from "./headshots/satyajit.jpeg";
+import shruti from "./headshots/shruti.jpg";
+import smrithi from "./headshots/Smrithi.jpeg"
+import srinath from "./headshots/srinath.jpeg";
+import yuko from "./headshots/yuko.jpeg";
+import saty from "./headshots/saty.png"
+
+{/* photoKey: headShot Image */}
+export const photoMap = {
+'aniket': aniket,
+'anjali' : anjali,
+'chahat': chahat,
+'daksh': daksh,
+'ekaterina': ekaterina,
+'kohta': kohta,
+'miral': miral,
+'ruchit': ruchit,
+'shrey': shrey,
+'spurthy': spurthy,
+'vatsal': vatsal,
+'christopher': christopher,
+'devashish': devashish,
+'ishaan': ishaan,
+'mandy': mandy,
+'ravneet': ravneet,
+'saty' : saty,
+'satyajit': satyajit,
+'shruti': shruti,
+'smrithi' :smrithi,
+'srinath': srinath,
+'yuko': yuko
+}
+
+export const MemberList = () => {
+
+const RenderMembers = ({memberList}) =>{
+
+return <div className={`member-list flex flex-col ${memberList.length > 2 ?'justify-between' : 'gap-20'} sm:flex-row`}>
+{memberList.map((member) => {
+return <div className={'member flex flex-row justify-center sm:flex-col'}>
+
+<div className={'photo'}>
+<img src ={photoMap[member.photoKey]}/>
+</div>
+<div className={'details w-13'}>
+<h3 className={'mt-3 mb-0'}>{member.name}</h3>
+<p className={'mt-0'}>{member.position}</p>
+</div>
+</div>
+})}
+
+</div>
+}
+
+const RenderTeams = () =>{
+return <div>
+<RenderMembers memberList={memberJson.leads} />
+{memberJson.teams.map(team => (
+
+<div className={`team mt-4`}>
+  <h2>{team.name}</h2>
+  <div className={'member flex flex-row justify-center sm:flex-col'}>
+<div>
+  <RenderMembers memberList={team.vp} />
+</div>
+</div>
+  <RenderMembers memberList={team.members} />
+</div>
+
+))}</div>}
+
+return <div className={'flex flex-col'}><RenderTeams/></div>;
+};
+
+# About Us
+
+Graduates Rising in Information and Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering’s Department of Computer Science. Our mission is to advance the academic and professional interests of Informatics, Data Science, and Computer Science students at USC through experiential learning, corporate partnerships, and engaging networking opportunities that build community.
+
+# E-Board Members
+
+<MemberList> </MemberList>
