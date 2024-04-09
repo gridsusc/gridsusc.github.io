@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
-  title: 'GRIDS - Graduates Rising in Data Science',
+  title: 'GRIDS USC',
   tagline: 'Join USCs #1 Data Science Club',
   favicon: 'img/logo.png',
 
