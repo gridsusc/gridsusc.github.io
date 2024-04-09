@@ -45,3 +45,7 @@ img{
   height: 150px;
   object-fit: contain;
 }
+
+.col.col--2 {
+  display: none !important;
+}
