@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
-  title: 'GRIDS - Graduates Rising in Data Science',
+  title: 'GRIDS USC',
   tagline: 'Join USCs #1 Data Science Club',
   favicon: 'img/logo.png',
 
@@ -37,13 +37,11 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          routeBasePath: 'events',
-        },
         blog: {
           showReadingTime: true,
-          routeBasePath: "blogs"
+          routeBasePath: "events",
+          blogTitle: "Events and Blogs",
+          blogDescription: "GRIDS USC - Graduates Rising in Data Science"
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -62,14 +60,8 @@ const config: Config = {
         src: 'img/logo.png',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'right',
-          label: 'Events',
-        },
-        {to: '/about-us', label: 'About Us', position: 'left'},
-        {to: '/blogs', label: 'Blogs', position: 'left'},
+        {to: '/events', label: 'Events and Blogs', position: 'left'},
+        {to: '/about-us', label: 'About Us', position: 'right'},
       ],
     },
     footer: {
@@ -79,11 +71,7 @@ const config: Config = {
           title: 'Explore the Site',
           items: [
             {
-              label: 'Blogs',
-              to: '/blogs',
-            },
-            {
-              label: 'Events',
+              label: 'Events and Blogs',
               to: '/events',
             },
             {
@@ -114,7 +102,7 @@ const config: Config = {
           items: [
             {
               label: 'About Us',
-              to: '/team',
+              to: '/about-us',
             },
             {
               label: 'Email',

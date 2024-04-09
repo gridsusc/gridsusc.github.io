@@ -7,12 +7,13 @@
   overflow: hidden;
 }
 
-.backgroundContainer {  
-  background-image: url('./group_dark.jpg'); 
+.backgroundContainer {
+  background-image: url('/img/team.jpg'); 
   background-size: cover;
-  background-position: center -110px;
+  background-position: center;
+  background-attachment: fixed;
   width: 100%;
-  height: 600px;
+  height: 92vh;
 }
 
 .hero__title {
@@ -23,6 +24,8 @@
 .hero__subtitle {
   font-size: 3rem;
   font-weight: bold;
+  margin-top: 100px;
+  text-shadow: 0 0 40px #000000;
 }
 
 .buttons {
@@ -61,7 +64,6 @@
   background-size: cover;
   background-position: center;
   display: flex;
-  background-color: #b19cd9;
   width: 50%;
 }
 
@@ -94,8 +96,7 @@
   margin-right: 30px;
   background-color: transparent; 
   border: none; 
-  border-bottom: 1px solid black; 
-  color: black;
+  border-bottom: 1px solid; 
   cursor: pointer;
 }
 
@@ -162,18 +163,7 @@
 
 @media screen and (max-width: 996px) {
   .backgroundContainer {  
-    background-position: center;    
-    height: inherit;      
-  }
-
-  .hero__title, .hero__subtitle {
-    font-size: 0.9rem; 
-    text-align: center;
-  }
-
-  .button {
-    font-size: 0.7rem;
-    text-align: center;
+    background-position: center;
   }
 
   .about-us-container {   
@@ -181,28 +171,16 @@
   }
 
   .about-us-image {
-    height: 300px; /* Adjusted height for smaller screens */
-    width: 100%; /* Ensure image takes full width */
+    display: none;
   }
 
   .about-us {
-    padding: 20px; /* Adjusted padding for smaller screens */
-    font-size: 16px; /* Adjusted font size for smaller screens */
-    margin-top: 20px; /* Added margin between image and content */
     width: 100%; 
   }
 
-  .about-us h1 {
-    font-size: 28px; /* Adjusted heading font size for smaller screens */
-  }
-
   .about-us-content {
-    font-size: 14px; /* Adjusted content font size for smaller screens */
+    font-size: 15px; /* Adjusted content font size for smaller screens */
     margin: 10px 0; /* Added margin for better spacing */
-  }
-
-  .newsletter {
-    padding-bottom:0px;
   }
 
 }
