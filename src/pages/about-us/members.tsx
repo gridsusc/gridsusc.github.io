@@ -121,11 +121,11 @@
           "photoKey": "spurthy"
         },
         {
-          "name": "Ruchit Bhardwaj",
+          "name": "Srinath Begudem",
           "position": "Member",
-          "email": "rrthaker@usc.edu",
+          "email": "begudem@usc.edu",
           "linkedin": "",
-          "photoKey": "ruchit"
+          "photoKey": "srinath"
         },
         {
           "name": "Christopher Bou-Saab",
@@ -133,13 +133,6 @@
           "email": "bousaab@usc.edu",
           "linkedin": "https://www.linkedin.com/in/christopher-bousaab/",
           "photoKey": "christopher"
-        },
-        {
-          "name": "Srinath Begudem",
-          "position": "Member",
-          "email": "begudem@usc.edu",
-          "linkedin": "",
-          "photoKey": "srinath"
         }
       ]
     },
