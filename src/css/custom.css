@@ -146,3 +146,7 @@
 #mce-success-response {
   color: black !important;
 }
+
+.col.col--2 {
+  display: none !important;
+}
