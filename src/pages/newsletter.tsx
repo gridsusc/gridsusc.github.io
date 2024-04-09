@@ -13,7 +13,7 @@ const NewsletterComponent = () => {
         left: '10px',
         top: '-10px',
         fontSize: '14px',
-        backgroundColor: '#b19cd9',  // this will help to interrupt the border
+        backgroundColor: '#c688df',  // this will help to interrupt the border
         padding: '0 5px',
         fontFamily: 'sans-serif',
         fontWeight: 'bold'        

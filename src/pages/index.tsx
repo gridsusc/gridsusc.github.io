@@ -14,12 +14,12 @@ import styles from './index.module.css';
 const sliderSettings = {
   dots: false,
   infinite: true,
-  speed: 1800,
+  speed: 1000,
   slidesToScroll: 1,
   autoplay: true,
   autoplaySpeed: 5,
   cssEase: 'linear',
-  pauseOnHover: false,
+  pauseOnHover: true,
   arrows: false,
   variableWidth: true,
 };
@@ -42,7 +42,6 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.content}>
           <Heading as="h1" className={clsx('hero__title', styles.hero__title)}>
-            {siteConfig.title}
           </Heading>
           <p className={clsx('hero__subtitle', styles.hero__subtitle)}>
             {siteConfig.tagline}
@@ -104,7 +103,7 @@ function scrollToNewsletter() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+    <Layout description="GRIDS - Graduates Rising in Data Science">
       <HomepageHeader />
       <main>
         <AboutUsSection />
