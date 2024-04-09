@@ -1,7 +1,6 @@
 ---
 slug: kickoff-2020
 title: GRIDS/CKIDS Kickoff - Spring 2020
-authors: [grids]
 tags: [event, outreach]
 date: 2020-01-16
 ---

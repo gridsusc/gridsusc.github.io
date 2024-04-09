@@ -1,7 +1,6 @@
 ---
 slug: dl-python
 title: Guest Speaker - Deep Learning with Python
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-11-07
 ---

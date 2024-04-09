@@ -1,7 +1,6 @@
 ---
 slug: kickoff-2019-fall-3
 title: GRIDS Fall 2019 Kickoff
-authors: [grids]
 tags: [event, outreach]
 date: 2019-09-12
 ---

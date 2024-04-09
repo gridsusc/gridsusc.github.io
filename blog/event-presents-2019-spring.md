@@ -1,7 +1,6 @@
 ---
 slug: presents-2019-spring
 title: GRIDS Presents - Spring 2019
-authors: [grids]
 tags: [event, outreach]
 date: 2019-04-18
 ---

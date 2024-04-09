@@ -1,7 +1,6 @@
 ---
 slug: gnn
 title: Graph Neural Networks - From Theory to Practice
-authors: [grids]
 tags: [event, tech, talk]
 date: 2023-03-02
 ---
@@ -12,9 +11,9 @@ Graph neural networks are a type of deep learning algorithm that are designed to
 
 During the talk, Satwant provided an overview of what Graph Neural Networks are, how they work, and their applications in various fields, such as social network analysis, recommender systems, and drug discovery. He also discussed the challenges of working with graph-structured data and how graph neural networks can help overcome some of these challenges.
 
-<img src="/img/blogs/gnn.JPG" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
-
 <!-- truncate -->
+
+<img src="/img/blogs/gnn.JPG" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
 
 He also presented examples of how Graph Neural Networks have been used in real-world applications and provide insights into the advantages and limitations of these models. He also demonstrated how to build and train a graph neural network using pytorch and even had a brief session group session on a google collab notebook!
 

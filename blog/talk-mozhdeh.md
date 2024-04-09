@@ -1,7 +1,6 @@
 ---
 slug: nlp-2019
 title: Guest Speaker - NLP
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-09-26
 ---

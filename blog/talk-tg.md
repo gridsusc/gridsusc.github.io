@@ -1,7 +1,6 @@
 ---
 slug: python-reproducibility
 title: Guest Speaker - Python Reproducibility
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-09-19
 ---

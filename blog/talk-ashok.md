@@ -1,7 +1,6 @@
 ---
 slug: twitter-research
 title: Guest Speaker - So You Want to do Research using the Twitter Platform
-authors: [grids]
 tags: [event, tech, talk]
 date: 2020-02-13
 ---

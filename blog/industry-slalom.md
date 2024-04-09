@@ -1,7 +1,6 @@
 ---
 slug: slalom-consulting-ds
 title: Slalom Consulting Data Science Presentation
-authors: [grids]
 tags: [event, tech, workshop]
 date: 2019-01-29
 ---

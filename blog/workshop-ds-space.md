@@ -1,16 +1,15 @@
 ---
 slug: ds-and-space-force
 title: Data Science and US Space Force
-authors: [grids]
 tags: [event, tech, workshop]
 date: 2023-03-23
 ---
 
 This workshop was led by Mrs Ann John. The workshop explored the intersection of data science and the US Space Force, with a particular focus on the safety group at the SSC division. The workshop began with an overview of the US Space Force and its mission to protect US interests in space. It then moved on to explore how data science is being used to improve safety and efficiency in space operations.
 
-Participants learned about the various types of data that are collected by the Space Force, including telemetry data, sensor data, and weather data. They also learned about the challenges of working with big data in a space environment, such as limited bandwidth and high latency.
-
 <!-- truncate -->
+
+Participants learned about the various types of data that are collected by the Space Force, including telemetry data, sensor data, and weather data. They also learned about the challenges of working with big data in a space environment, such as limited bandwidth and high latency.
 
 <img src="/img/blogs/space-force.JPG" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
 

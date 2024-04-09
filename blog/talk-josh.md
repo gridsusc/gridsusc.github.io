@@ -1,7 +1,6 @@
 ---
 slug: thc-data-engineering
 title: Guest Speaker - Data Engineering at The Honest Company
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-11-21
 ---

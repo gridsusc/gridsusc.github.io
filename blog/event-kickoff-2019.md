@@ -1,7 +1,6 @@
 ---
 slug: kickoff-2019-fall-1
 title: GRIDS/CKIDS Presentations - Fall 2019
-authors: [grids]
 tags: [event, outreach]
 date: 2019-11-25
 ---

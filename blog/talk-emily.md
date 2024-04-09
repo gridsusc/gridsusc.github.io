@@ -1,7 +1,6 @@
 ---
 slug: technical-recruiting
 title: Guest Speaker - Technical Recruiting
-authors: [grids]
 tags: [event, tech, talk]
 date: 2020-01-30
 ---

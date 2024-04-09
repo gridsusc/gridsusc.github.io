@@ -1,7 +1,6 @@
 ---
 slug: ideas-2019
 title: IDEAS Conference 2019
-authors: [grids]
 tags: [event, tech, conference]
 date: 2019-10-27
 ---

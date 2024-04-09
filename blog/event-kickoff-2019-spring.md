@@ -1,7 +1,6 @@
 ---
 slug: kickoff-2019-spring
 title: GRIDS Spring 2019 Kickoff
-authors: [grids]
 tags: [event, outreach]
 date: 2019-01-23
 ---

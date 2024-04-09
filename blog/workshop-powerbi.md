@@ -1,18 +1,17 @@
 ---
 slug: powerbi-and-tableau
 title: PowerBI and Tableau Event
-authors: [grids]
 tags: [event, tech, workshop]
 date: 2023-03-23
 ---
 
 The PowerBI and Tableau event workshop was a great opportunity for everyone to learn more about the two most popular data visualization tools in the industry. The workshop featured presentations and hands-on exercises designed to help attendees learn how to use PowerBI and Tableau to create engaging and insightful visualizations.
 
+<!-- truncate -->
+
 The event began with an overview of the features and capabilities of both tools. The presenters provided an in-depth explanation of the different data visualization techniques, best practices, and strategies for making data-driven decisions.
 
 <img src="/img/blogs/powerbi.JPG" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
-
-<!-- truncate -->
 
 After the introductory presentations, attendees were given the opportunity to work on exercises designed to help them learn how to use PowerBI and Tableau. The exercises ranged from simple data visualizations to complex interactive dashboards that allowed attendees to analyze data in real-time.
 

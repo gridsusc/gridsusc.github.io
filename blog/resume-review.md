@@ -1,7 +1,6 @@
 ---
 slug: resume-review
 title: Resume Review
-authors: [grids]
 tags: [resume-review, event, tech]
 date: 2023-10-05
 ---
@@ -11,9 +10,9 @@ their skills and experience. The workshop was led by the graduating masters stud
 job hunting campaigns! They offer their insights and tips in attracting the best companies by helping
 students build their resumes form the ground up!
 
-<img src="/img/blogs/resume-review.jpeg" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
-
 <!-- truncate -->
+
+<img src="/img/blogs/resume-review.jpeg" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
 
 During the workshop, participants were encouraged to reflect on their own experiences and skills and
 to brainstorm ways to showcase them in their resumes. They were asked to complete exercises or activities

@@ -1,7 +1,6 @@
 ---
 slug: dl-2019
 title: GRIDS Deep Learning Workshop
-authors: [grids]
 tags: [event, tech, workshop]
 date: 2019-03-07
 ---

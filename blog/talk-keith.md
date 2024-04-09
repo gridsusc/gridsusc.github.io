@@ -1,7 +1,6 @@
 ---
 slug: visualizing-graphs-python
 title: Guest Speaker - Visualizing and Analyzing Graphs in Python
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-10-24
 ---

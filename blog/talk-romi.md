@@ -1,7 +1,6 @@
 ---
 slug: data-visualization
 title: Guest Speaker - Data Visualization
-authors: [grids]
 tags: [event, tech, talk]
 date: 2019-10-31
 ---

@@ -1,7 +1,6 @@
 ---
 slug: kickoff-2019-fall-2
 title: GRIDSxCKIDS Project Kickoff
-authors: [grids]
 tags: [event, outreach]
 date: 2019-09-16
 ---
