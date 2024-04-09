@@ -52,7 +52,7 @@ export const MemberList = () => {
 
 const RenderMembers = ({memberList}) =>{
 
-return <div className={`member-list flex flex-col ${memberList.length > 2 ?'justify-between' : 'gap-20'} sm:flex-row`}>
+return <div className={`member-list flex flex-col ${memberList.length > 3 ?'gap-20' : 'justify-start gap-16'} sm:flex-row`}>
 {memberList.map((member) => {
 return <div className={'member flex flex-row justify-center sm:flex-col'}>
 
