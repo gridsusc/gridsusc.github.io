@@ -4,9 +4,10 @@ import type * as Preset from '@docusaurus/preset-classic';
 import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
-  title: 'GRIDS USC',
-  tagline: 'Graduates Rising in Data Science',
+  title: 'GRIDS - Graduates Rising in Data Science',
+  tagline: 'Join USCs #1 Data Science Club',
   favicon: 'img/logo.png',
+
 
   // Set the production url of your site here
   url: 'https://gridsusc.com',
@@ -64,10 +65,10 @@ const config: Config = {
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
-          position: 'left',
+          position: 'right',
           label: 'Events',
         },
-        {to: '/blogs', label: 'Blogs', position: 'left'},
+        {to: '/blogs', label: 'Blogs', position: 'right'},
         {to: '/team', label: 'About Us', position: 'right'},
       ],
     },
