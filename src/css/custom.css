@@ -27,9 +27,9 @@
   overflow: hidden;
 }
 
-img{
+.navbar__logo > img{
   width: 40px;
-  height: 150px;
+  height: 35px;
   object-fit: contain;
 }
 
