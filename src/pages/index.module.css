@@ -1,7 +1,4 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
+/* CSS files with the .module.css suffix will be treated as CSS modules and scoped locally. */
 
 .heroBanner {
   padding: 4rem 0;
@@ -10,14 +7,180 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.backgroundContainer {
+  background-image: url('/img/team.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  height: 92vh;
+}
+
+.hero__title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.hero__subtitle {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 100px;
+  text-shadow: 0 0 40px #000000;
 }
 
 .buttons {
-  display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.button {
+  margin: 10px;
+  padding: 15px 30px;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(15px);
+  color: #fafafa;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: color 0.3s;
+  font-size: 24px;
+}
+
+.button:hover {
+  color: #c688df;
+}
+
+.about-us-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.about-us-image {
+  background-image: url('./home2.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  width: 50%;
+}
+
+.about-us {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px;
+  width: 50%;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #b19cd9;
+  flex: 1;
+}
+
+.about-us h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.about-us-content {
+  text-align: justify;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.aboutButton1 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-right: 30px;
+  background-color: transparent; 
+  border: none; 
+  border-bottom: 1px solid; 
+  cursor: pointer;
+}
+
+.image-slider-container {
+  padding-top: 40px;
+  width: 100%;
+}
+
+.image-slider-container .slick-prev:before,
+.image-slider-container .slick-next:before {
+  color: black;
+}
+
+.slide {
+  height: 100px; 
+  margin-right: 50px;
+}
+
+.slide-image {
+  height: 80%; 
+  width: auto; 
+}
+
+.newsletter {
+  margin-bottom: 10px;
+  padding: 50px;
+  line-height: 1.6;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f9f9f900;
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.outerDivNews {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.newsMR {
+  margin-right: 20px;
+}
+
+.newsHeader1 {
+  margin-bottom: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.mbNews { margin-bottom: 25px;}
+
+.mb20 { margin-bottom: 20px; }
+
+.inputNews { border-width: 1px; padding-left: 20px; border-radius: 10px; margin-bottom: 0px; border-color: black; }
+
+.newsIcon { margin-left: 80px;  margin-Bottom: 100px; height: 20vh; }
+
+
+@media screen and (max-width: 996px) {
+  .backgroundContainer {  
+    background-position: center;
+  }
+
+  .about-us-container {   
+    flex-direction: column; 
+  }
+
+  .about-us-image {
+    display: none;
+  }
+
+  .about-us {
+    width: 100%; 
+  }
+
+  .about-us-content {
+    font-size: 15px; /* Adjusted content font size for smaller screens */
+    margin: 10px 0; /* Added margin for better spacing */
+  }
+
 }
