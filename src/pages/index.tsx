@@ -68,9 +68,9 @@ function AboutUsSection() {
           </p>
           <div>
             <button className={styles.aboutButton1} onClick={scrollToNewsletter}>Join our Newsletter</button>
-            <a href="https://forms.gle/cFzjrQJJWYGDsahc9" target="_blank" rel="noopener noreferrer">
+            {/* <a href="https://forms.gle/cFzjrQJJWYGDsahc9" target="_blank" rel="noopener noreferrer">
               <button className={styles.aboutButton1}>Enroll Now</button>
-            </a>
+            </a> */}
           </div> 
         </div>
       </div>
