@@ -31,7 +31,7 @@
       "members": [
         {
           "name": "Daksh",
-          "position": "lmao",
+          "position": "Member",
           "email": "dakshhas@usc.edu",
           "linkedin": "https://www.linkedin.com/in/iamdaksh/",
           "photoKey": "daksh"
