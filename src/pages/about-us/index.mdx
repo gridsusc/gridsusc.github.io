@@ -53,17 +53,17 @@ export const MemberList = () => {
 const RenderMembers = ({memberList}) =>{
 
 return <div className={`member-list flex flex-col ${memberList.length > 3 ?'gap-20' : 'justify-start gap-16'} sm:flex-row`}>
-{memberList.map((member) => {
-return <div className={'member flex flex-row justify-center sm:flex-col'}>
-
-<div className={'photo'}>
-<img src ={photoMap[member.photoKey]}/>
-</div>
-<div className={'details w-13'}>
-<h3 className={'mt-3 mb-0'}>{member.name}</h3>
-<p className={'mt-0'}>{member.position}</p>
-</div>
-</div>
+{
+  memberList.map((member) => {
+    return <div className={'member flex flex-row justify-center sm:flex-col'}>
+    <div className={'photo'}>
+      <img src ={photoMap[member.photoKey]}/>
+    </div>
+    <div className={'details w-13'}>
+      <h3 className={'mt-3 mb-0'}>{member.name}</h3>
+      <p className={'mt-0'}>{member.position}</p>
+    </div>
+  </div>
 })}
 
 </div>
@@ -71,20 +71,22 @@ return <div className={'member flex flex-row justify-center sm:flex-col'}>
 
 const RenderTeams = () =>{
 return <div>
-<RenderMembers memberList={memberJson.leads} />
-{memberJson.teams.map(team => (
-
-<div className={`team mt-4`}>
-  <h2>{team.name}</h2>
-  <div className={'member flex flex-row justify-center sm:flex-col'}>
-<div>
-  <RenderMembers memberList={team.vp} />
+  <RenderMembers memberList={memberJson.leads} />
+  {
+    memberJson.teams.map(team => (
+      <div className={`team mt-4`}>
+        <h2>{team.name}</h2>
+        <div className={'member flex flex-row justify-center sm:flex-col'}>
+          <div>
+            <RenderMembers memberList={team.vp} />
+          </div>
+        </div>
+        <RenderMembers memberList={team.members} />
+      </div>
+    ))
+    }
 </div>
-</div>
-  <RenderMembers memberList={team.members} />
-</div>
-
-))}</div>}
+}
 
 return <div className={'flex flex-col about-us'}><RenderTeams/></div>;
 };
@@ -97,84 +99,99 @@ Graduates Rising in Information and Data Science (GRIDS) is the first graduate s
 
 # Our Alumni
 
-## Fall 2020 - Spring 2021 Leadership Team
+<details>
+  <summary>
+   <strong> Fall 2020 - Spring 2021 Leadership Team </strong>
+  </summary>
+    
+  [Madeleine Thompson](https://www.linkedin.com/in/madeleine-jane-thompson/) - Co-President
 
-[Madeleine Thompson](https://www.linkedin.com/in/madeleine-jane-thompson/) - Co-President
+  [Megan Josep](https://www.linkedin.com/in/megjosep/) - Co-President
 
-[Megan Josep](https://www.linkedin.com/in/megjosep/) - Co-President
+  [Matthew Fishman](https://www.linkedin.com/in/matthew-fishman/) - Vice President of Outreach & External Affairs
 
-[Matthew Fishman](https://www.linkedin.com/in/matthew-fishman/) - Vice President of Outreach & External Affairs
+  [Jonathan Lal](https://www.linkedin.com/in/JonnyLal/) - Vice President of Technical Development
 
-[Jonathan Lal](https://www.linkedin.com/in/JonnyLal/) - Vice President of Technical Development
+  [Erin Szeto](https://www.linkedin.com/in/erinszeto/) - Vice President of Marketing & Digital Media
 
-[Erin Szeto](https://www.linkedin.com/in/erinszeto/) - Vice President of Marketing & Digital Media
+  [Megan Bull](https://www.linkedin.com/in/megankbull/) - Outreach & External Affairs
 
-[Megan Bull](https://www.linkedin.com/in/megankbull/) - Outreach & External Affairs
+  [Mridul Jhawar](https://www.linkedin.com/in/mridul-jhawar-4b08b4189/) - Outreach & External Affairs
 
-[Mridul Jhawar](https://www.linkedin.com/in/mridul-jhawar-4b08b4189/) - Outreach & External Affairs
+  Praveen Iyer - Outreach & External Affairs
 
-Praveen Iyer - Outreach & External Affairs
+  [Yoshitha Akunuri](https://www.linkedin.com/in/yoshitha-akunuri-8a28601b9/) - Outreach & External Affairs
 
-[Yoshitha Akunuri](https://www.linkedin.com/in/yoshitha-akunuri-8a28601b9/) - Outreach & External Affairs
+  [Bidisha Das Baksi](https://www.linkedin.com/in/bidisha-das-baksi-59a94216a/) - Technical Development
 
-[Bidisha Das Baksi](https://www.linkedin.com/in/bidisha-das-baksi-59a94216a/) - Technical Development
+  [Nikita Goel](https://www.linkedin.com/in/nikitagoel23/) - Technical Development
 
-[Nikita Goel](https://www.linkedin.com/in/nikitagoel23/) - Technical Development
+  [Parth Kapadia](https://in.linkedin.com/in/parthkap) - Technical Development
 
-[Parth Kapadia](https://in.linkedin.com/in/parthkap) - Technical Development
+  Prashant Singh - Technical Development
 
-Prashant Singh - Technical Development
+  [Satwant Singh](https://www.linkedin.com/in/satwant-singh201/) - Technical Development
 
-[Satwant Singh](https://www.linkedin.com/in/satwant-singh201/) - Technical Development
+  [Kanish Shah](https://www.linkedin.com/in/kanish-shah/) - Marketing & Digital Media
 
-[Kanish Shah](https://www.linkedin.com/in/kanish-shah/) - Marketing & Digital Media
+  [Sahil Shingala](https://www.linkedin.com/in/sahil-shingala-8742b419b) - Marketing & Digital Media
 
-[Sahil Shingala](https://www.linkedin.com/in/sahil-shingala-8742b419b) - Marketing & Digital Media
+  [Smeet Dhakecha](https://www.linkedin.com/in/smeetdhakecha) - Marketing & Digital Media
+</details>
 
-[Smeet Dhakecha](https://www.linkedin.com/in/smeetdhakecha) - Marketing & Digital Media
+<details>
+  <summary>
+   <strong> Fall 2020 - Spring 2021 Leadership Team </strong>
+  </summary>
+  [Haripriya Dharmala](https://www.linkedin.com/in/haripriya-dharmala/) - President
 
-## Fall 2020 - Spring 2021 Leadership Team
+  [Abhivineet Veeraghanta](https://www.linkedin.com/in/abhivineet/) - Head of Community
 
-[Haripriya Dharmala](https://www.linkedin.com/in/haripriya-dharmala/) - President
+  [Iris Liu](https://iris-liu.com) - Head of Technical Development
 
-[Abhivineet Veeraghanta](https://www.linkedin.com/in/abhivineet/) - Head of Community
+  [Henry Nghiem](https://www.linkedin.com/in/huy-tran-nghiem/) - Head of Programs
 
-[Iris Liu](https://iris-liu.com) - Head of Technical Development
+  [Madeleine Thompson](https://www.linkedin.com/in/madeleine-jane-thompson/) - Head of Social Media
 
-[Henry Nghiem](https://www.linkedin.com/in/huy-tran-nghiem/) - Head of Programs
+  [Megan Josep](https://www.linkedin.com/in/megjosep/) - Head of Outreach
 
-[Madeleine Thompson](https://www.linkedin.com/in/madeleine-jane-thompson/) - Head of Social Media
+  [Sanjiv Soni](https://www.sanjivsoni.com) - Head of Technical Development
+</details>
 
-[Megan Josep](https://www.linkedin.com/in/megjosep/) - Head of Outreach
+<details>
+  <summary>
+   <strong> Spring 2019 - Spring 2020 Leadership Team </strong>
+  </summary>
+  [Samar Haider](https://www.linkedin.com/in/samarhaider) - President
 
-[Sanjiv Soni](https://www.sanjivsoni.com) - Head of Technical Development
+  [Allen Kim](https://www.linkedin.com/in/allenbkim) - Head of Community
 
-## Spring 2019 - Spring 2020 Leadership Team
+  [Adam Vaccaro](https://www.linkedin.com/in/advaccaro) - Head of Technical Development
 
-[Samar Haider](https://www.linkedin.com/in/samarhaider) - President
+  [Nikhit Mago](https://www.linkedin.com/in/nikhitmago) - Technical Mentor
 
-[Allen Kim](https://www.linkedin.com/in/allenbkim) - Head of Community
+  [Yeji Shin](https://www.linkedin.com/in/yejishin) - Head of Communications
 
-[Adam Vaccaro](https://www.linkedin.com/in/advaccaro) - Head of Technical Development
+  [Isha Patil](https://www.linkedin.com/in/ishapatil07) - Community Ambassador
 
-[Nikhit Mago](https://www.linkedin.com/in/nikhitmago) - Technical Mentor
+  [Malika Seth](https://www.linkedin.com/in/malika-seth-090b69144/) - Head of Social Media
+</details>
 
-[Yeji Shin](https://www.linkedin.com/in/yejishin) - Head of Communications
+<details>
+  <summary>
+   <strong>Fall 2017 - Fall 2018 Leadership Team </strong>
+  </summary>
+  [Seun Deleawe](https://urldefense.com/v3/__https://www.linkedin.com/in/seundeleawe/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZibc4WyUs$) - Founder and President
 
-[Isha Patil](https://www.linkedin.com/in/ishapatil07) - Community Ambassador
+  _Seun founded GRIDS in Fall 2017. This effort included naming the organization, defining the mission, designing the logo, socializing the idea with Viterbi faculty/staff, and registering GRIDS as a USC Recognized Student Organization (RSO)._
 
-[Malika Seth](https://www.linkedin.com/in/malika-seth-090b69144/) - Head of Social Media
+  [Fay Qiu](https://urldefense.com/v3/__https://www.linkedin.com/in/fay-qiu-28409292/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZiolAxX7Q$) - Head of Programs
 
-## Fall 2017 - Fall 2018 Leadership Team
+  [Sandeep Venkatesh](https://urldefense.com/v3/__https://www.linkedin.com/in/rvsandeep/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZi0FqnMJo$) - Head of Community Relations
 
-[Seun Deleawe](https://urldefense.com/v3/__https://www.linkedin.com/in/seundeleawe/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZibc4WyUs$) - Founder and President
+  [Adam Vaccaro](https://www.linkedin.com/in/advaccaro) - Head of Technical Development
+</details>
 
-_Seun founded GRIDS in Fall 2017. This effort included naming the organization, defining the mission, designing the logo, socializing the idea with Viterbi faculty/staff, and registering GRIDS as a USC Recognized Student Organization (RSO)._
 
-[Fay Qiu](https://urldefense.com/v3/__https://www.linkedin.com/in/fay-qiu-28409292/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZiolAxX7Q$) - Head of Programs
-
-[Sandeep Venkatesh](https://urldefense.com/v3/__https://www.linkedin.com/in/rvsandeep/__;!!LIr3w8kk_Xxm!8JSBYbNgiUrfESaDNf3XY7f28lMmmW1ctFtAtBy4DuGair4lS0LmsGZi0FqnMJo$) - Head of Community Relations
-
-[Adam Vaccaro](https://www.linkedin.com/in/advaccaro) - Head of Technical Development
 
 
