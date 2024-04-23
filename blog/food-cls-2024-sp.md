@@ -2,7 +2,7 @@
 slug: food-classification-2024-sp
 title: Workshop on Food Classification
 tags: [workshop, event]
-date: 2024-04-10
+date: 2024-04-09
 ---
 
 GRIDS hosted a Workshop on Food Classification at SSL202, inviting USC students eager to enhance their data analysis skills. Presented by Daksh Patel, the workshop provided an immersive experience into the complexities of food classification. The event offered attendees the chance to participate in hands-on activities and tasting sessions.
