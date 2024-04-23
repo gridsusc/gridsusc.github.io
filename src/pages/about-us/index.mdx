@@ -50,45 +50,52 @@ export const photoMap = {
 
 export const MemberList = () => {
 
-const RenderMembers = ({memberList}) =>{
-
-return <div className={`member-list flex flex-col ${memberList.length > 3 ?'gap-20' : 'justify-start gap-16'} sm:flex-row`}>
-{
-  memberList.map((member) => {
-    return <div className={'member flex flex-row justify-center sm:flex-col'}>
-    <div className={'photo'}>
-      <img src ={photoMap[member.photoKey]}/>
+const RenderMember = ({member : {name, email, linkedin, photoKey, position, team}, isLead}) => (
+  <div className={`member flex flex-col ${isLead ? 'w-[310px]' : 'w-[195px]'} justify-between`}>
+    <div className={`photo ${isLead ? 'w-[310px] h-[300px]' : 'w-[190px] h-[190px]'}`}>
+      <img src ={photoMap[photoKey]}/>
     </div>
-    <div className={'details w-13'}>
-      <h3 className={'mt-3 mb-0'}>{member.name}</h3>
-      <p className={'mt-0'}>{member.position}</p>
+    <div className={'details flex flex-col'}>
+      <div className={'personal flex flex-col px-3 py-2'}>
+        <h2 className={`name ${isLead ? 'text-[18px]' : 'text-[16px]'} mb-1`}>{name}</h2>
+        <p className={'position mb-0'}>{position}</p>
+        {team ? <p className={'text-sm mb-0'}>{team}</p> : ''}
+      </div>
+      <div className={'socials flex flex-row justify-start gap-2 py-2 bg-gray-50 px-3 border-0 border-t-2 border-solid border-gray-100 text-sm'}> 
+        <a className={'linkedin text-cyan-500'} href={linkedin} target={'_blank'}>LinkedIn</a>
+        <a className={'emailext-black'} href={`mailto:${email}`} target={'_blank'}>Email</a>
+      </div>
+    </div>
+  </div>  
+)
+
+const RenderTeams = () => (
+  <div className={'team'}>
+    <div className={'leads flex flex-row justify-center mb-4 gap-10'}>
+    {
+      memberJson.leads.map(lead => <RenderMember member={lead} isLead={true}/>)
+    }
+    </div>
+    <div className={'vps flex flex-row justify-between mb-4'}>
+    {
+      memberJson.teams.map(team => ({...team.vp[0], team: team.name})).map(vp => <RenderMember member={vp}/>)
+    }
+    </div>
+    {
+      memberJson.teams.map(team => team.members.map(mem => ({...mem, team:team.name}))).map(team => (
+        <div className='team flex flex-row justify-start mb-4'>
+        {
+          team.map(mem => <RenderMember member={mem}/>)
+        }
+        </div>
+      ))
+    }
+    <div className={'vp'}>
     </div>
   </div>
-})}
+)
 
-</div>
-}
-
-const RenderTeams = () =>{
-return <div>
-  <RenderMembers memberList={memberJson.leads} />
-  {
-    memberJson.teams.map(team => (
-      <div className={`team mt-4`}>
-        <h2>{team.name}</h2>
-        <div className={'member flex flex-row justify-center sm:flex-col'}>
-          <div>
-            <RenderMembers memberList={team.vp} />
-          </div>
-        </div>
-        <RenderMembers memberList={team.members} />
-      </div>
-    ))
-    }
-</div>
-}
-
-return <div className={'flex flex-col about-us'}><RenderTeams/></div>;
+return <div><RenderTeams/></div>
 };
 
 # About Us
