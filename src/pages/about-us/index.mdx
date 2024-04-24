@@ -50,9 +50,9 @@ export const photoMap = {
 
 export const MemberList = () => {
 
-const RenderMember = ({member : {name, email, linkedin, photoKey, position, team}, isLead}) => (
-  <div className={`member flex flex-col ${isLead ? 'w-[310px]' : 'w-[195px]'} justify-between`}>
-    <div className={`photo ${isLead ? 'w-[310px] h-[300px]' : 'w-[190px] h-[190px]'}`}>
+const RenderMember = ({member : {name, email, linkedin, photoKey, position, team}, isLead}) => (name ?
+  <div className={`member flex flex-col ${isLead ? 'w-52 md:w-[310px]' : 'w-48 md:w-[195px]'} justify-between`}>
+    <div className={`photo ${isLead ? 'w-52 h-48 md:w-[310px] md:h-[300px]' : 'w-48 h-48 md:w-[13vw] md:h-[13vw] lg:w-[14vw] lg:h-[14vw] xl:w-[10vw] xl:h-[10vw]'}`}>
       <img src ={photoMap[photoKey]}/>
     </div>
     <div className={'details flex flex-col'}>
@@ -66,24 +66,26 @@ const RenderMember = ({member : {name, email, linkedin, photoKey, position, team
         <a className={'emailext-black'} href={`mailto:${email}`} target={'_blank'}>Email</a>
       </div>
     </div>
-  </div>  
+  </div>:
+  <div className={`member flex flex-col ${isLead ? 'w-52 md:w-[310px]' : 'w-48 md:w-[195px]'} justify-between`}>
+  </div>
 )
 
 const RenderTeams = () => (
   <div className={'team'}>
-    <div className={'leads flex flex-row justify-center mb-4 gap-10'}>
+    <div className={'leads flex flex-col md:flex-row justify-center mb-4 gap-10'}>
     {
       memberJson.leads.map(lead => <RenderMember member={lead} isLead={true}/>)
     }
     </div>
-    <div className={'vps flex flex-row justify-between mb-4'}>
+    <div className={'vps flex flex-col md:flex-row justify-between mb-4'}>
     {
       memberJson.teams.map(team => ({...team.vp[0], team: team.name})).map(vp => <RenderMember member={vp}/>)
     }
     </div>
     {
       memberJson.teams.map(team => team.members.map(mem => ({...mem, team:team.name}))).map(team => (
-        <div className='team flex flex-row justify-start mb-4'>
+        <div className='team flex flex-col md:flex-row justify-start mb-4'>
         {
           team.map(mem => <RenderMember member={mem}/>)
         }
