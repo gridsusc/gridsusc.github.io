@@ -121,3 +121,20 @@ article:has(div.about-us) {
   margin-top: inherit;
   box-shadow: none;
 }
+
+.member {
+  margin-bottom: 30px;
+}
+
+.personal {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+[data-theme='dark'] .personal {
+  background-color: #1B1B1D !important;
+}
+
+[data-theme='dark'] .socials {
+  background-color: #1B1B1D !important;
+}

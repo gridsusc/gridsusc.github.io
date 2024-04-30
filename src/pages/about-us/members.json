@@ -101,44 +101,6 @@
       ]
     },
     {
-      "name": "Admin and Sponsorships",
-      "vp": [
-        {
-          "name": "Smrithi Agrawal",
-          "email": "smrithia@usc.edu",
-          "linkedin": "",
-          "photoKey": "smrithi",
-          "position" : "Vice President"
-        }
-      ],
-      "members": [
-        {
-          "name": "Spurthy Skandan",
-          "position": "Member",
-          "email": "skandan@usc.edu",
-          "linkedin": "linkedin.com/in/spurthy-skandan",
-          "photoKey": "spurthy"
-        },
-        {
-          "name": "Srinath Begudem",
-          "position": "Member",
-          "email": "begudem@usc.edu",
-          "linkedin": "",
-          "photoKey": "srinath"
-        },
-        {
-          "name": "Christopher Bou-Saab",
-          "position": "Member",
-          "email": "bousaab@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/christopher-bousaab/",
-          "photoKey": "christopher"
-        },
-        {
-          
-        }
-      ]
-    },
-    {
       "name": "Outreach & External Affairs",
       "vp": [
         {
@@ -177,6 +139,44 @@
           "email": "shtyrkov@usc.edu",
           "linkedin": "",
           "photoKey": "ekaterina"
+        }
+      ]
+    },
+    {
+      "name": "Admin and Sponsorships",
+      "vp": [
+        {
+          "name": "Smrithi Agrawal",
+          "email": "smrithia@usc.edu",
+          "linkedin": "",
+          "photoKey": "smrithi",
+          "position" : "Vice President"
+        }
+      ],
+      "members": [
+        {
+          "name": "Spurthy Skandan",
+          "position": "Member",
+          "email": "skandan@usc.edu",
+          "linkedin": "linkedin.com/in/spurthy-skandan",
+          "photoKey": "spurthy"
+        },
+        {
+          "name": "Srinath Begudem",
+          "position": "Member",
+          "email": "begudem@usc.edu",
+          "linkedin": "",
+          "photoKey": "srinath"
+        },
+        {
+          "name": "Christopher Bou-Saab",
+          "position": "Member",
+          "email": "bousaab@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/christopher-bousaab/",
+          "photoKey": "christopher"
+        },
+        {
+          
         }
       ]
     }
