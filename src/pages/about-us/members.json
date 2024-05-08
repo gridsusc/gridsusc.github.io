@@ -81,7 +81,7 @@
           "name": "Devashish Lal",
           "position": "Member",
           "email": "devashis@usc.edu",
-          "linkedin": "",
+          "linkedin": "https://www.linkedin.com/in/devashish-lal-096868176/",
           "photoKey": "devashish"
         },
         {
@@ -95,7 +95,7 @@
           "name": "Miral Gandhi",
           "position": "Member",
           "email": "mggandhi@usc.edu",
-          "linkedin": "",
+          "linkedin": "https://www.linkedin.com/in/miral-gandhi4/",
           "photoKey": "miral"
         }
       ]
@@ -105,18 +105,18 @@
       "vp": [
         {
           "name": "Shruti Subramanyam",
-          "email": "",
-          "linkedin": "",
+          "email": "shrutisu@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/shruti-subramanyam-942a8b113/",
           "photoKey": "shruti",
           "position" : "Vice President"
         }
       ],
       "members": [
         {
-          "name": "Kohta",
+          "name": "Kohta Asakura",
           "position": "Member",
-          "email": "",
-          "linkedin": "",
+          "email": "kasakura@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/kohtaasakura/",
           "photoKey": "kohta"
         },
         {
@@ -137,7 +137,7 @@
           "name": "Ekaterina Shtyrkova",
           "position": "Member",
           "email": "shtyrkov@usc.edu",
-          "linkedin": "",
+          "linkedin": "https://www.linkedin.com/in/ekaterina-shtyrkova-b8b2b1224/",
           "photoKey": "ekaterina"
         }
       ]
@@ -148,7 +148,7 @@
         {
           "name": "Smrithi Agrawal",
           "email": "smrithia@usc.edu",
-          "linkedin": "",
+          "linkedin": "https://www.linkedin.com/in/smrithiagrawal/",
           "photoKey": "smrithi",
           "position" : "Vice President"
         }
@@ -165,7 +165,7 @@
           "name": "Srinath Begudem",
           "position": "Member",
           "email": "begudem@usc.edu",
-          "linkedin": "",
+          "linkedin": "https://www.linkedin.com/in/begudem-srinath-892222224/",
           "photoKey": "srinath"
         },
         {
