@@ -13,6 +13,6 @@ The event was made even better with the addition of pizza and soft drinks, which
 
 <img src="/img/blogs/sn.jpg" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
 
-Moreover, the event featured a special visit and talk from Professor Saty, a renowned expert in the field of data science. Professor Saty shared valuable insights and expertise on the importance of data science in the modern world and how it is transforming businesses and industries worldwide. It was a unique opportunity for everyone to learn from an expert in the field and ask questions about data science and related topics.
+Moreover, the event featured a special visit and talk from Professor Saty, a renowned expert in the field of data science. Professor Saty shared valuable insights and expertise on the importance of data science in the modern world and how it is transforming businesses and industries worldwide. It was a unique opportunity for everyone to learn from an expert in the field and ask questions about data science and related topics. [Here](https://bytes.usc.edu/~saty/talks/GRIDS_f23/) is a link to the slides for his talk.
 
 Overall, the Social Night event was a great success! and everyone enjoyed the chance to connect with others, play games, and learn more about data science. It was an excellent opportunity for everyone to expand their knowledge and skills in a fun and engaging way.

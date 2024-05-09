@@ -11,6 +11,8 @@ Attendees indulged in an array of activities, including networking sessions, int
 
 <!-- truncate -->
 
+The event featured our dear advisor and esteemed faculty Prof. Saty, who presented a beautiful talk on his views on data science. He illustrated how data science has evolved, and presented a unique perspective on data itself, and what it means to truly compute. [Here](https://bytes.usc.edu/~saty/talks/GRIDS--s24/) is a link to his slides for the talk.
+
 The event also featured food, drinks, and games, enhancing the social experience and facilitating meaningful interactions among attendees. Students seized the opportunity to exchange ideas, forge new connections, and expand their professional networks within the data science community.
 
 <img src="/img/blogs/sn.jpg" style={{width: "100%", height: "auto", marginBottom: "15px"}} />
