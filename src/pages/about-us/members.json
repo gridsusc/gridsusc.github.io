@@ -8,11 +8,11 @@
       "position": "University Advisor"
     },
     {
-      "name": "Vatsal Kamlesh Khandor",
-      "email": "khandor@usc.edu",
-      "linkedin": "https://www.linkedin.com/in/khandorvatsal/",
-      "photoKey": "vatsal",
-      "position": "President"
+      "name": "Yuko Ohmori",
+      "email": "yohmori@usc.edu",
+      "linkedin": "https://www.linkedin.com/in/yuko-ohmori/",
+      "photoKey": "yuko",
+      "position" : "Vice President"
     }
   ],
   "teams": [
@@ -20,11 +20,11 @@
       "name": "Tech",
       "vp": [
         {
-          "name": "Yuko Ohmori",
-          "email": "yohmori@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/yuko-ohmori/",
-          "photoKey": "yuko",
-          "position" : "Vice President"
+          "name": "Ravneet Kaur",
+          "position": "Vice President",
+          "email": "ravneetk@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/ravneet-kaur78/",
+          "photoKey": "ravneet"
         }
       ],
       "members": [
@@ -146,11 +146,11 @@
       "name": "Admin and Sponsorships",
       "vp": [
         {
-          "name": "Smrithi Agrawal",
-          "email": "smrithia@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/smrithiagrawal/",
-          "photoKey": "smrithi",
-          "position" : "Vice President"
+          "name": "Spurthy Skandan",
+          "position": "Vice President",
+          "email": "skandan@usc.edu",
+          "linkedin": "linkedin.com/in/spurthy-skandan",
+          "photoKey": "spurthy"
         }
       ],
       "members": [
