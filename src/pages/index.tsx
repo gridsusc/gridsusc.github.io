@@ -47,7 +47,8 @@ function HomepageHeader() {
             {siteConfig.tagline}
           </p>
           <div className={styles.buttons}>
-            <button className={styles.button} onClick={scrollToNewsletter}>Subscribe to our newsletter!</button>
+          <button className={styles.button} onClick={scrollToNewsletter}>Subscribe to our newsletter!</button>
+          <button className={styles.button} onClick={goToRecForm}>E-BOARD Application Form - Deadline: Sept 15, 2024</button>
           </div>
         </div>
       </div>
@@ -67,10 +68,8 @@ function AboutUsSection() {
             Graduates Rising in Information and Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering’s Department of Computer Science. Our mission is to advance the academic and professional interests of Informatics, Data Science, and Computer Science students at USC through experiential learning, corporate partnerships, and engaging networking opportunities that build community.
           </p>
           <div>
-            <button className={styles.aboutButton1} onClick={scrollToNewsletter}>Join our Newsletter</button>
-            {/* <a href="https://forms.gle/cFzjrQJJWYGDsahc9" target="_blank" rel="noopener noreferrer">
-              <button className={styles.aboutButton1}>Enroll Now</button>
-            </a> */}
+            <button className={styles.aboutButton1} onClick={scrollToNewsletter}>Join our Newsletter</button><br />
+            <button className={styles.aboutButton1} onClick={goToRecForm}>E-BOARD Application Form - Deadline: Sept 15, 2024</button>
           </div> 
         </div>
       </div>
@@ -91,6 +90,10 @@ function ImgSlider() {
       </Slider>
     </div>
   );
+}
+
+function goToRecForm() {
+  window.open("https://docs.google.com/forms/d/e/1FAIpQLSeMyhMpfnzV8vRxBphvZuF2lVa6PZEwTA-A53yFHujqoBX-_g/viewform", "_blank")
 }
 
 function scrollToNewsletter() {
