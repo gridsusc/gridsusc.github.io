@@ -1,57 +1,73 @@
 import memberJson from "./members.json";
-import aniket from "./headshots/aniket.jpeg";
-import chahat from "./headshots/chahat.jpg";
+import aniket from "./headshots/Aniket Mohan Ladukar.jpg";
+import abhaay from "./headshots/Abhaay Srinivas.jpg";
+import aditya from "./headshots/Aditya Ashvin.jpg";
+import aryan from "./headshots/Aryan Vats.jpg";
+import chris from "./headshots/christopher.jpeg";
 import daksh from "./headshots/daksh.jpg";
-import ekaterina from "./headshots/ekaterina.jpg";
-import kohta from "./headshots/kohta.jpeg";
-import miral from "./headshots/miral.jpg";
-import ruchit from "./headshots/ruchit.jpeg";
-import shrey from "./headshots/shrey.jpeg";
-import spurthy from "./headshots/spurthy.png";
-import vatsal from "./headshots/vatsal.jpg";
-import anjali from "./headshots/anjali.jpeg";
-import christopher from "./headshots/christopher.jpeg";
-import devashish from "./headshots/devashish.jpeg";
-import ishaan from "./headshots/ishaan.jpg";
-import mandy from "./headshots/mandy.jpeg";
-import ravneet from "./headshots/ravneet.png";
-import satyajit from "./headshots/satyajit.jpeg";
-import shruti from "./headshots/shruti.jpg";
-import smrithi from "./headshots/Smrithi.jpeg"
-import srinath from "./headshots/srinath.jpeg";
-import yuko from "./headshots/yuko.jpeg";
-import saty from "./headshots/saty.png"
+import darshan from "./headshots/Darshan Manoj.png";
+import diya from "./headshots/Diya Saraf.png";
+import fan from "./headshots/Fan Zhang.jpg";
+import hyuntae from "./headshots/Hyuntae Roh.jpg";
+import ishaan from "./headshots/Ishaan Singh.jpg";
+import justin from "./headshots/Justin Chen.jpeg";
+import kara from "./headshots/Kara Bazilio.jpg";
+import kohta from "./headshots/Kohta Asakura.jpeg";
+import mandy from "./headshots/Mandy Chen.jpeg";
+import misha from "./headshots/Misha Fu.png";
+import navneet from "./headshots/Navneet Chandrashekar Raju.jpg";
+import neelam from "./headshots/Neelam Nand Somai.jpg";
+import nidhi from "./headshots/Nidhi Choudhary.png";
+import rashi from "./headshots/Rashi Mahavir Solanki.png";
+import ravneet from "./headshots/Ravneet Kaur.png";
+import rhea from "./headshots/Rhea Mulki.jpeg";
+import sanskar from "./headshots/Sanskar Garodia.jpg";
+import satyajit from "./headshots/Satyajit Roy.jpeg";
+import shruti from "./headshots/Shruti Subramanyam.jpeg";
+import spurthy from "./headshots/Spurthy Skandan.jpg";
+import saty from "./headshots/saty.png";
+import Yuko from "./headshots/Yuko Ohmori.jpeg";
+import shrey from "./headshots/shrey.jpeg"
+import devashish from "./headshots/devashish.jpeg"
 
 {/* photoKey: headShot Image */}
 export const photoMap = {
-'aniket': aniket,
-'anjali' : anjali,
-'chahat': chahat,
-'daksh': daksh,
-'ekaterina': ekaterina,
-'kohta': kohta,
-'miral': miral,
-'ruchit': ruchit,
-'shrey': shrey,
-'spurthy': spurthy,
-'vatsal': vatsal,
-'christopher': christopher,
-'devashish': devashish,
-'ishaan': ishaan,
-'mandy': mandy,
-'ravneet': ravneet,
-'saty' : saty,
-'satyajit': satyajit,
-'shruti': shruti,
-'smrithi' :smrithi,
-'srinath': srinath,
-'yuko': yuko
+  'shrey': shrey,
+  'devashish': devashish,
+  'aniket': aniket,
+  'abhaay': abhaay,
+  'aditya': aditya,
+  'aryan': aryan,
+  'chris': chris,
+  'daksh': daksh,
+  'darshan': darshan,
+  'diya': diya,
+  'fan': fan,
+  'hyuntae': hyuntae,
+  'ishaan': ishaan,
+  'justin': justin,
+  'kara': kara,
+  'kohta': kohta,
+  'mandy': mandy,
+  'misha': misha,
+  'navneet': navneet,
+  'neelam': neelam,
+  'nidhi': nidhi,
+  'rashi': rashi,
+  'ravneet': ravneet,
+  'rhea': rhea,
+  'sanskar': sanskar,
+  'satyajit': satyajit,
+  'shruti': shruti,
+  'saty' : saty,
+  'spurthy': spurthy,
+  'yuko': Yuko
 }
 
 export const MemberList = () => {
-
+{" "}
 const RenderMember = ({member : {name, email, linkedin, photoKey, position, team}, isLead}) => (name ?
-  <div className={`member flex flex-col ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full md:w-1/4 sm:w-full'} justify-between`}>
+  <div className={`member flex flex-col ${isLead ? 'lead' : ''} ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full md:w-1/4 sm:w-full'} justify-between  mx-2`}>
     <div className={`photo w-1/1 aspect-square`}>
       <img src ={photoMap[photoKey]}/>
     </div>
@@ -72,6 +88,7 @@ const RenderMember = ({member : {name, email, linkedin, photoKey, position, team
 )
 
 const RenderTeams = () => (
+  <>
   <div className={'team'}>
     <div className={'leads flex flex-col md:flex-row justify-center gap-10'}>
     {
@@ -83,7 +100,7 @@ const RenderTeams = () => (
       memberJson.teams.map(team => ({...team.vp[0], team: team.name})).map(vp => <RenderMember member={vp}/>)
     }
     </div>
-    {/**
+    {
       memberJson.teams.map(team => team.members.map(mem => ({...mem, team:team.name}))).map(team => (
         <div className='team flex flex-col md:flex-row justify-start'>
         {
@@ -91,10 +108,12 @@ const RenderTeams = () => (
         }
         </div>
       ))
-    */}
+    }
     <div className={'vp'}>
     </div>
   </div>
+  </>
+
 )
 
 return <div><RenderTeams/></div>

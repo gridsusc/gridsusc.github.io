@@ -12,7 +12,7 @@
       "email": "yohmori@usc.edu",
       "linkedin": "https://www.linkedin.com/in/yuko-ohmori/",
       "photoKey": "yuko",
-      "position" : "Vice President"
+      "position": "President"
     }
   ],
   "teams": [
@@ -29,11 +29,46 @@
       ],
       "members": [
         {
-          "name": "Daksh",
-          "position": "Member",
+          "name": "Aryan Vats",
+          "email": "aryanvat@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/aryan-vats/",
+          "photoKey": "aryan",
+          "position": "Member"
+        },
+        {
+          "name": "Daksh Patel",
           "email": "dakshhas@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/iamdaksh/",
-          "photoKey": "daksh"
+          "linkedin": "https://www.linkedin.com/in/daksh-patel/",
+          "photoKey": "daksh",
+          "position": "Member"
+        },
+        {
+          "name": "Hyuntae Roh",
+          "email": "hroh@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/hyuntae-roh/",
+          "photoKey": "hyuntae",
+          "position": "Member"
+        },
+        {
+          "name": "Justin Chen",
+          "email": "jchen972@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/justin-chen/",
+          "photoKey": "justin",
+          "position": "Member"
+        },
+        {
+          "name": "Kara Bazilio",
+          "email": "bazilio@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/kara-bazilio-a1ab341b2/",
+          "photoKey": "kara",
+          "position": "Member"
+        },
+        {
+          "name": "Navneet Raju",
+          "email": "navneetr@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/navneet-raju/",
+          "photoKey": "navneet",
+          "position": "Member"
         },
         {
           "name": "Shrey Agarwal",
@@ -41,20 +76,6 @@
           "email": "shreyaga@usc.edu",
           "linkedin": "https://www.linkedin.com/in/shrey-agarwal-one1/",
           "photoKey": "shrey"
-        },
-        {
-          "name": "Anjali Singh",
-          "position": "Member",
-          "email": "singhanj@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/anjalis2112/",
-          "photoKey": "anjali"
-        },
-        {
-          "name": "Ravneet Kaur",
-          "position": "Member",
-          "email": "ravneetk@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/ravneet-kaur78/",
-          "photoKey": "ravneet"
         }
       ]
     },
@@ -64,18 +85,39 @@
         {
           "name": "Ishaan Singh",
           "email": "ishaans@usc.edu",
-          "linkedin": "https://linkedin.com/in/bigbrain1901",
+          "linkedin": "https://www.linkedin.com/in/ishaansingh/",
           "photoKey": "ishaan",
-          "position" : "Vice President"
+          "position": "Vice President"
         }
       ],
       "members": [
         {
+          "name": "Abhaay Srinivas",
+          "email": "abhaaysr@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/abhaay-srinivas/",
+          "photoKey": "abhaay",
+          "position": "Member"
+        },
+        {
+          "name": "Aditya Ashvin",
+          "email": "ashvin@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/aditya-ashvin/",
+          "photoKey": "aditya",
+          "position": "Member"
+        },
+        {
           "name": "Aniket Ladukar",
-          "position": "Member",
           "email": "ladukar@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/ladukaraniket",
-          "photoKey": "aniket"
+          "linkedin": "https://www.linkedin.com/in/ladukaraniket/",
+          "photoKey": "aniket",
+          "position": "Member"
+        },
+        {
+          "name": "Darshan Manoj",
+          "email": "dmanoj@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/darshan-manoj/",
+          "photoKey": "darshan",
+          "position": "Member"
         },
         {
           "name": "Devashish Lal",
@@ -85,18 +127,25 @@
           "photoKey": "devashish"
         },
         {
-          "name": "Chahat",
-          "position": "Member",
-          "email": "chahat@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/chahat7/",
-          "photoKey": "chahat"
+          "name": "Diya Saraf",
+          "email": "Diyasara@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/diya-saraf/",
+          "photoKey": "diya",
+          "position": "Member"
         },
         {
-          "name": "Miral Gandhi",
-          "position": "Member",
-          "email": "mggandhi@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/miral-gandhi4/",
-          "photoKey": "miral"
+          "name": "Misha Fu",
+          "email": "mishafu@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/misha-fu/",
+          "photoKey": "misha",
+          "position": "Member"
+        },
+        {
+          "name": "Sanskar Garodia",
+          "email": "sgarodia@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/sanskar-garodia/",
+          "photoKey": "sanskar",
+          "position": "Member"
         }
       ]
     },
@@ -108,37 +157,30 @@
           "email": "shrutisu@usc.edu",
           "linkedin": "https://www.linkedin.com/in/shruti-subramanyam-942a8b113/",
           "photoKey": "shruti",
-          "position" : "Vice President"
+          "position": "Vice President"
         }
       ],
       "members": [
         {
           "name": "Kohta Asakura",
-          "position": "Member",
           "email": "kasakura@usc.edu",
           "linkedin": "https://www.linkedin.com/in/kohtaasakura/",
-          "photoKey": "kohta"
-        },
-        {
-          "name": "Satyajit Roy",
-          "position": "Member",
-          "email": "ssroy@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/satyajit-roy060801/",
-          "photoKey": "satyajit"
+          "photoKey": "kohta",
+          "position": "Member"
         },
         {
           "name": "Mandy Chen",
-          "position": "Member",
           "email": "mandyche@usc.edu",
-          "linkedin": "http://linkedin.com/in/mandymanni-chen",
-          "photoKey": "mandy"
+          "linkedin": "https://www.linkedin.com/in/mandy-chen/",
+          "photoKey": "mandy",
+          "position": "Member"
         },
         {
-          "name": "Ekaterina Shtyrkova",
-          "position": "Member",
-          "email": "shtyrkov@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/ekaterina-shtyrkova-b8b2b1224/",
-          "photoKey": "ekaterina"
+          "name": "Satyajit Roy",
+          "email": "ssroy@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/satyajit-roy060801/",
+          "photoKey": "satyajit",
+          "position": "Member"
         }
       ]
     },
@@ -147,36 +189,40 @@
       "vp": [
         {
           "name": "Spurthy Skandan",
-          "position": "Vice President",
           "email": "skandan@usc.edu",
-          "linkedin": "linkedin.com/in/spurthy-skandan",
-          "photoKey": "spurthy"
+          "linkedin": "https://www.linkedin.com/in/spurthy-skandan/",
+          "photoKey": "spurthy",
+          "position": "Vice President"
         }
       ],
       "members": [
         {
-          "name": "Spurthy Skandan",
-          "position": "Member",
-          "email": "skandan@usc.edu",
-          "linkedin": "linkedin.com/in/spurthy-skandan",
-          "photoKey": "spurthy"
-        },
-        {
-          "name": "Srinath Begudem",
-          "position": "Member",
-          "email": "begudem@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/begudem-srinath-892222224/",
-          "photoKey": "srinath"
-        },
-        {
           "name": "Christopher Bou-Saab",
-          "position": "Member",
           "email": "bousaab@usc.edu",
           "linkedin": "https://www.linkedin.com/in/christopher-bousaab/",
-          "photoKey": "christopher"
+          "photoKey": "chris",
+          "position": "Member"
         },
         {
-          
+          "name": "Fan Zhang",
+          "email": "fzhang00@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/fan-zhang/",
+          "photoKey": "fan",
+          "position": "Member"
+        },
+        {
+          "name": "Neelam Somai",
+          "email": "somai@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/neelam-somai/",
+          "photoKey": "neelam",
+          "position": "Member"
+        },
+        {
+          "name": "Rhea Mulki",
+          "email": "mulki@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/rhea-mulki/",
+          "photoKey": "rhea",
+          "position": "Member"
         }
       ]
     }
