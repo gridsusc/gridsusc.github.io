@@ -27,8 +27,8 @@ import shruti from "./headshots/Shruti Subramanyam.jpeg";
 import spurthy from "./headshots/Spurthy Skandan.jpg";
 import saty from "./headshots/saty.png";
 import Yuko from "./headshots/Yuko Ohmori.jpeg";
-import shrey from "./headshots/shrey.jpeg"
-import devashish from "./headshots/devashish.jpeg"
+import shrey from "./headshots/shrey.jpeg";
+import devashish from "./headshots/devashish.jpeg";
 
 {/* photoKey: headShot Image */}
 export const photoMap = {
@@ -59,64 +59,62 @@ export const photoMap = {
   'sanskar': sanskar,
   'satyajit': satyajit,
   'shruti': shruti,
-  'saty' : saty,
+  'saty': saty,
   'spurthy': spurthy,
   'yuko': Yuko
 }
 
 export const MemberList = () => {
-{" "}
-const RenderMember = ({member : {name, email, linkedin, photoKey, position, team}, isLead}) => (name ?
-  <div className={`member flex flex-col ${isLead ? 'lead' : ''} ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full md:w-1/4 sm:w-full'} justify-between  mx-2`}>
-    <div className={`photo w-1/1 aspect-square`}>
-      <img src ={photoMap[photoKey]}/>
-    </div>
-    <div className={'details flex flex-col'}>
-      <div className={'personal flex flex-col px-3 py-2'}>
-        <h2 className={`name ${isLead ? 'text-[18px] sm:w-full' : 'text-[16px] sm:w-full'}`}>{name}</h2>
-        <p className={'position mb-0'}>{position}</p>
-        {team ? <p className={'text-sm mb-0'}>{team}</p> : ''}
+  { " " }
+  const RenderMember = ({ member: { name, email, linkedin, photoKey, position, team }, isLead }) => (name ?
+    <div className={`member flex flex-col ${isLead ? 'lead' : ''} ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full'} justify-between  mx-2`}>
+      <div className={`photo w-1/1 aspect-square`}>
+        <img src={photoMap[photoKey]} />
       </div>
-      <div className={'socials flex flex-row justify-start gap-2 py-2 bg-gray-50 px-3 border-0 border-t-2 border-solid border-gray-100 text-sm'}> 
-        <a className={'linkedin text-cyan-500'} href={linkedin} target={'_blank'}>LinkedIn</a>
-        <a className={'emailext-black'} href={`mailto:${email}`} target={'_blank'}>Email</a>
-      </div>
-    </div>
-  </div>:
-  <div className={`member flex flex-col ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full md:w-1/4 sm:w-full'} justify-between`}>
-  </div>
-)
-
-const RenderTeams = () => (
-  <>
-  <div className={'team'}>
-    <div className={'leads flex flex-col md:flex-row justify-center gap-10'}>
-    {
-      memberJson.leads.map(lead => <RenderMember member={lead} isLead={true}/>)
-    }
-    </div>
-    <div className={'vps flex flex-col md:flex-row justify-between'}>
-    {
-      memberJson.teams.map(team => ({...team.vp[0], team: team.name})).map(vp => <RenderMember member={vp}/>)
-    }
-    </div>
-    {
-      memberJson.teams.map(team => team.members.map(mem => ({...mem, team:team.name}))).map(team => (
-        <div className='team flex flex-col md:flex-row justify-start'>
-        {
-          team.map(mem => <RenderMember member={mem}/>)
-        }
+      <div className={'details flex flex-col'}>
+        <div className={'personal flex flex-col px-3 py-2'}>
+          <h2 className={`name ${isLead ? 'text-[18px] sm:w-full' : 'text-[15px] sm:w-full'}`}>{name}</h2>
+          <p className={'position mb-0'}>{position}</p>
+          {team ? <p className={'text-sm mb-0'}>{team}</p> : ''}
         </div>
-      ))
-    }
-    <div className={'vp'}>
+        <div className={'socials flex flex-row justify-start gap-2 py-2 bg-gray-50 px-3 border-0 border-t-2 border-solid border-gray-100 text-sm'}>
+          <a className={'linkedin text-cyan-500'} href={linkedin} target={'_blank'}>LinkedIn</a>
+          <a className={'emailext-black'} href={`mailto:${email}`} target={'_blank'}>Email</a>
+        </div>
+      </div>
+    </div> :
+    <div className={`member flex flex-col ${isLead ? 'w-full md:w-1/2 sm:w-full' : 'w-full md:w-1/4 sm:w-full'} justify-between`}>
     </div>
-  </div>
-  </>
+  )
 
-)
+  const RenderTeams = () => (
+    <>
+      <div className={'team'}>
+        <div className={'leads flex flex-col md:flex-row justify-center gap-10'}>
+          {
+            memberJson.leads.map(lead => <RenderMember member={lead} isLead={true} />)
+          }
+        </div>
+        <div className={'vps flex flex-col md:flex-row justify-between'}>
+          {
+            memberJson.teams.map(team => ({ ...team.vp[0], team: team.name })).map(vp => <RenderMember member={vp} />)
+          }
+        </div>
+        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>
+          {
+            memberJson.teams.map(team => team.members.map(mem => ({ ...mem, team: team.name }))).flat().map(mem => (
+              <div className="w-full">
+                <RenderMember key={mem.id} member={mem} />
+              </div>
+            ))
+          }
+        </div>
+      </div>
+    </>
 
-return <div><RenderTeams/></div>
+  )
+
+  return <div><RenderTeams /></div>
 };
 
 <div style={{padding: "15px"}}/>
