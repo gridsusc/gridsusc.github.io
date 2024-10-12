@@ -64,6 +64,13 @@
           "position": "Member"
         },
         {
+          "name": "Rashi Solanki",
+          "email": "rashimah@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/rashisolanki/",
+          "photoKey": "rashi",
+          "position": "Member"
+        },
+        {
           "name": "Navneet Raju",
           "email": "navneetr@usc.edu",
           "linkedin": "https://www.linkedin.com/in/navneet-raju/",
@@ -76,6 +83,13 @@
           "email": "shreyaga@usc.edu",
           "linkedin": "https://www.linkedin.com/in/shrey-agarwal-one1/",
           "photoKey": "shrey"
+        },
+        {
+          "name": "Misha Fu",
+          "email": "mishafu@usc.edu",
+          "linkedin": "https://www.linkedin.com/in/misha-fu/",
+          "photoKey": "misha",
+          "position": "Member"
         }
       ]
     },
@@ -134,13 +148,6 @@
           "position": "Member"
         },
         {
-          "name": "Misha Fu",
-          "email": "mishafu@usc.edu",
-          "linkedin": "https://www.linkedin.com/in/misha-fu/",
-          "photoKey": "misha",
-          "position": "Member"
-        },
-        {
           "name": "Sanskar Garodia",
           "email": "sgarodia@usc.edu",
           "linkedin": "https://www.linkedin.com/in/sanskar-garodia/",
@@ -150,7 +157,7 @@
       ]
     },
     {
-      "name": "Outreach & External Affairs",
+      "name": "Outreach, External Affairs",
       "vp": [
         {
           "name": "Shruti Subramanyam",
