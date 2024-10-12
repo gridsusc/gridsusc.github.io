@@ -19,6 +19,16 @@
   --ifm-color-primary-lightest: #6770D2;
   --ifm-code-font-size: 95%;
 }
+.team {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+}
+
+.member {
+  flex: 1 1 calc(25% - 20px); 
+  margin: 10px; 
+}
 
 
 .photo {
@@ -137,4 +147,16 @@ article:has(div.about-us) {
 
 [data-theme='dark'] .socials {
   background-color: #1B1B1D !important;
+}
+
+.photo img {
+  width: 200px; /* Make the image take the full width of the container */
+  height: 200px; /* Set a fixed height */
+  object-fit: cover; /* Maintain aspect ratio while covering the area */
+}
+
+.member.lead .photo img {
+  width: 400px; /* Make the image take the full width of the container */
+  height: 400px; /* Set a fixed height */
+  object-fit: cover; /* Make lead member images taller */
 }
