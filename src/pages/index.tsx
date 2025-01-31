@@ -56,6 +56,9 @@ function HomepageHeader() {
             <button className={styles.button} onClick={scrollToNewsletter}>
               Subscribe to our newsletter!
             </button>
+            <button className={styles.aboutButton1} onClick={goToRecForm}>
+              E-BOARD Application Form - Deadline: Feb 09, 2025
+            </button>
           </div>
         </div>
       </div>
@@ -87,6 +90,10 @@ function AboutUsSection() {
             >
               Join our Newsletter
             </button>
+            <br />
+            <button className={styles.aboutButton1} onClick={goToRecForm}>
+              E-BOARD Application Form - Deadline: Feb 09, 2025
+            </button>
           </div>
         </div>
       </div>
@@ -110,6 +117,13 @@ function ImgSlider() {
         ))}
       </Slider>
     </div>
+  );
+}
+
+function goToRecForm() {
+  window.open(
+    "https://docs.google.com/forms/d/e/1FAIpQLScxvx9h4W4y3CDZBj1D1FY0CixSKwBmNR6RNrSJuK-wqAypLw/viewform?usp=send_form",
+    "_blank"
   );
 }
 
