@@ -56,7 +56,12 @@ function HomepageHeader() {
             <button className={styles.button} onClick={scrollToNewsletter}>
               Subscribe to our newsletter!
             </button>
-            <button className={styles.aboutButton1} onClick={goToRecForm}>
+            <br />
+            <button
+              className={styles.aboutButton1}
+              style={{ color: "white" }}
+              onClick={goToRecForm}
+            >
               E-BOARD Application Form - Deadline: Feb 09, 2025
             </button>
           </div>
