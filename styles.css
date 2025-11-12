@@ -114,32 +114,11 @@ nav {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-nav .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-}
-
 .nav-menu {
     list-style: none;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    flex: 1;
-}
-
-.nav-logo {
-    display: flex;
-    align-items: center;
-    padding: 10px 20px;
-}
-
-.usc-logo-nav {
-    width: 100px;
-    height: auto;
-    opacity: 0.95;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
 }
 
 .nav-menu li {
@@ -415,6 +394,14 @@ nav .container {
     filter: drop-shadow(0 6px 14px rgba(0, 0, 0, 0.25));
 }
 
+.footer-usc-logo {
+    width: 100px;
+    height: auto;
+    margin-top: 15px;
+    opacity: 0.9;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+}
+
 .social-links {
     display: flex;
     flex-direction: column;
@@ -522,16 +509,8 @@ nav .container {
         padding: 12px;
     }
 
-    .usc-logo-nav {
+    .footer-usc-logo {
         width: 80px;
-    }
-
-    nav .container {
-        flex-direction: column;
-    }
-
-    .nav-logo {
-        padding: 10px;
     }
 }
 
