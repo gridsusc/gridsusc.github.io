@@ -5,14 +5,14 @@
 }
 
 :root {
-    --primary-blue: #2213a3;
-    --secondary-blue: #3722d1;
-    --accent-blue: #7b70ff;
-    --deep-navy: #140a6d;
-    --light-sky: #f2f1ff;
-    --text-primary: #1c1840;
-    --text-muted: #5e57a6;
-    --border-soft: #cec9ff;
+    --primary-blue: #81039d;
+    --secondary-blue: #a530c4;
+    --accent-blue: #c85ef0;
+    --deep-navy: #5a0270;
+    --light-sky: #f8f0ff;
+    --text-primary: #2d0a3a;
+    --text-muted: #7a5a8a;
+    --border-soft: #e8d0f5;
     
     /* Projects Section - Cool Teal Palette */
     --project-primary: #0f8c8c;
@@ -60,8 +60,8 @@ header::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background: radial-gradient(circle at 20% 50%, rgba(99, 196, 255, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 80%, rgba(99, 196, 255, 0.1) 0%, transparent 50%);
+    background: radial-gradient(circle at 20% 50%, rgba(200, 94, 240, 0.15) 0%, transparent 50%),
+                radial-gradient(circle at 80% 80%, rgba(200, 94, 240, 0.15) 0%, transparent 50%);
     pointer-events: none;
 }
 
@@ -150,12 +150,12 @@ nav {
 }
 
 .nav-menu a:hover {
-    background-color: rgba(99, 196, 255, 0.15);
+    background-color: rgba(200, 94, 240, 0.2);
     color: #ffffff;
 }
 
 .nav-menu a.active {
-    background-color: rgba(99, 196, 255, 0.22);
+    background-color: rgba(200, 94, 240, 0.3);
     color: #ffffff;
 }
 
@@ -436,7 +436,7 @@ nav {
 }
 
 .teams-section {
-    background: linear-gradient(180deg, #ffffff 0%, rgba(34, 19, 163, 0.04) 100%);
+    background: linear-gradient(180deg, #ffffff 0%, rgba(129, 3, 157, 0.04) 100%);
     text-align: center;
 }
 
@@ -458,8 +458,8 @@ nav {
     background: #ffffff;
     border-radius: 16px;
     padding: 25px;
-    box-shadow: 0 15px 45px rgba(20, 10, 109, 0.1);
-    border: 1px solid rgba(34, 19, 163, 0.12);
+    box-shadow: 0 15px 45px rgba(129, 3, 157, 0.1);
+    border: 1px solid rgba(129, 3, 157, 0.12);
     width: 100%;
 }
 
@@ -524,7 +524,7 @@ nav {
 }
 
 .social-link:hover {
-    background-color: rgba(99, 196, 255, 0.2);
+    background-color: rgba(200, 94, 240, 0.25);
     border-color: var(--accent-blue);
     color: white;
     transform: translateX(5px);
