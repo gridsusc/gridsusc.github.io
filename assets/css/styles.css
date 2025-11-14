@@ -5,14 +5,29 @@
 }
 
 :root {
-    --primary-blue: #0f4c81;
-    --secondary-blue: #1b5fb4;
-    --accent-blue: #63c4ff;
-    --deep-navy: #071d3f;
-    --light-sky: #eef4ff;
-    --text-primary: #1f2a44;
-    --text-muted: #5a6c8a;
-    --border-soft: #d6e3f7;
+    --primary-blue: #2213a3;
+    --secondary-blue: #3722d1;
+    --accent-blue: #7b70ff;
+    --deep-navy: #140a6d;
+    --light-sky: #f2f1ff;
+    --text-primary: #1c1840;
+    --text-muted: #5e57a6;
+    --border-soft: #cec9ff;
+    
+    /* Projects Section - Cool Teal Palette */
+    --project-primary: #0f8c8c;
+    --project-secondary: #14b5b5;
+    --project-accent: #6cede3;
+    --project-light: #e6fbfb;
+    --project-muted: #3c5d5d;
+
+    /* Events Section - Warm Complementary Palette */
+    --event-primary: #d45a2a;
+    --event-secondary: #e87a4a;
+    --event-accent: #ff9d6b;
+    --event-light: #fff4f0;
+    --event-text: #6b2e1a;
+    --event-muted: #a85d3f;
 }
 
 body {
@@ -205,8 +220,16 @@ nav {
 
 /* Projects Section */
 .projects-section {
-    background: linear-gradient(180deg, #ffffff 0%, var(--light-sky) 100%);
+    background: linear-gradient(180deg, #ffffff 0%, var(--project-light) 100%);
     position: relative;
+}
+
+.projects-section h2 {
+    color: var(--project-primary);
+}
+
+.projects-section h2::after {
+    background: linear-gradient(90deg, var(--project-primary), var(--project-accent), var(--project-primary));
 }
 
 .projects-grid {
@@ -217,8 +240,8 @@ nav {
 }
 
 .project-card {
-    background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
-    border: 2px solid var(--border-soft);
+    background: linear-gradient(135deg, #ffffff 0%, #f3fffe 100%);
+    border: 2px solid rgba(15, 140, 140, 0.2);
     border-radius: 12px;
     padding: 35px;
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -234,7 +257,7 @@ nav {
     left: 0;
     width: 100%;
     height: 4px;
-    background: linear-gradient(90deg, var(--primary-blue), var(--accent-blue));
+    background: linear-gradient(90deg, var(--project-primary), var(--project-accent));
     transform: scaleX(0);
     transform-origin: left;
     transition: transform 0.4s ease;
@@ -246,13 +269,13 @@ nav {
 
 .project-card:hover {
     transform: translateY(-8px) scale(1.02);
-    box-shadow: 0 12px 40px rgba(27, 95, 180, 0.2);
-    border-color: var(--secondary-blue);
+    box-shadow: 0 12px 40px rgba(20, 181, 181, 0.25);
+    border-color: var(--project-secondary);
 }
 
 .project-badge {
     display: inline-block;
-    background-color: var(--secondary-blue);
+    background: linear-gradient(135deg, var(--project-primary), var(--project-secondary));
     color: white;
     padding: 5px 15px;
     border-radius: 20px;
@@ -264,21 +287,71 @@ nav {
 }
 
 .project-card h3 {
-    color: var(--primary-blue);
+    color: var(--project-primary);
     margin-bottom: 15px;
     font-size: 1.5rem;
 }
 
 .project-card p {
-    color: var(--text-muted);
+    color: var(--project-muted);
     line-height: 1.8;
     font-size: 1.05rem;
     margin-top: 10px;
 }
 
+/* Project-specific colorways */
+.project-card--impact {
+    background: linear-gradient(135deg, #ffffff 0%, rgba(20, 181, 181, 0.08) 100%);
+    border-color: rgba(15, 140, 140, 0.35);
+    box-shadow: 0 10px 35px rgba(15, 140, 140, 0.15);
+}
+
+.project-card--impact .project-badge {
+    background: linear-gradient(135deg, #0f8c8c, #14b5b5);
+}
+
+.project-card--student {
+    background: linear-gradient(135deg, #ffffff 0%, rgba(119, 57, 202, 0.1) 100%);
+    border-color: rgba(119, 57, 202, 0.35);
+    box-shadow: 0 10px 35px rgba(119, 57, 202, 0.15);
+}
+
+.project-card--student .project-badge {
+    background: linear-gradient(135deg, #6f2edb, #a458ff);
+}
+
+.project-card--public {
+    background: linear-gradient(135deg, #ffffff 0%, rgba(230, 109, 82, 0.1) 100%);
+    border-color: rgba(230, 109, 82, 0.35);
+    box-shadow: 0 10px 35px rgba(230, 109, 82, 0.15);
+}
+
+.project-card--public .project-badge {
+    background: linear-gradient(135deg, #d45a2a, #ff8d5a);
+}
+
+.project-card--justice {
+    background: linear-gradient(135deg, #ffffff 0%, rgba(73, 149, 85, 0.12) 100%);
+    border-color: rgba(73, 149, 85, 0.35);
+    box-shadow: 0 10px 35px rgba(73, 149, 85, 0.15);
+}
+
+.project-card--justice .project-badge {
+    background: linear-gradient(135deg, #2f8f4f, #52c173);
+}
+
 /* Events Section */
 .events-section {
-    background-color: var(--light-sky);
+    background: linear-gradient(180deg, var(--event-light) 0%, #ffffff 100%);
+    position: relative;
+}
+
+.events-section h2 {
+    color: var(--event-primary);
+}
+
+.events-section h2::after {
+    background: linear-gradient(90deg, var(--event-primary), var(--event-accent), var(--event-primary));
 }
 
 .events-list {
@@ -290,14 +363,14 @@ nav {
 }
 
 .event-card {
-    background: linear-gradient(135deg, #ffffff 0%, #f8fbff 100%);
-    border-left: 5px solid var(--secondary-blue);
+    background: linear-gradient(135deg, #ffffff 0%, #fffaf7 100%);
+    border-left: 5px solid var(--event-secondary);
     border-radius: 12px;
     padding: 30px;
     display: flex;
     align-items: center;
     gap: 30px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 15px rgba(212, 90, 42, 0.1);
     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     position: relative;
     overflow: hidden;
@@ -310,7 +383,7 @@ nav {
     top: 0;
     bottom: 0;
     width: 5px;
-    background: linear-gradient(180deg, var(--primary-blue), var(--accent-blue));
+    background: linear-gradient(180deg, var(--event-primary), var(--event-accent));
     transform: scaleY(0);
     transform-origin: top;
     transition: transform 0.4s ease;
@@ -322,18 +395,19 @@ nav {
 
 .event-card:hover {
     transform: translateX(10px) scale(1.02);
-    box-shadow: 0 8px 25px rgba(27, 95, 180, 0.2);
-    border-left-color: var(--accent-blue);
+    box-shadow: 0 8px 25px rgba(212, 90, 42, 0.25);
+    border-left-color: var(--event-accent);
 }
 
 .event-date {
-    background-color: var(--primary-blue);
+    background: linear-gradient(135deg, var(--event-primary) 0%, var(--event-secondary) 100%);
     color: white;
     padding: 20px;
     border-radius: 8px;
     text-align: center;
     min-width: 80px;
     flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(212, 90, 42, 0.3);
 }
 
 .date-day {
@@ -352,13 +426,48 @@ nav {
 }
 
 .event-content h3 {
-    color: var(--primary-blue);
+    color: var(--event-primary);
     margin-bottom: 8px;
     font-size: 1.5rem;
 }
 
 .event-content p {
+    color: var(--event-muted);
+}
+
+.teams-section {
+    background: linear-gradient(180deg, #ffffff 0%, rgba(34, 19, 163, 0.04) 100%);
+    text-align: center;
+}
+
+.teams-intro {
+    max-width: 760px;
+    margin: 0 auto 40px;
     color: var(--text-muted);
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.team-banners {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.team-banner {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 25px;
+    box-shadow: 0 15px 45px rgba(20, 10, 109, 0.1);
+    border: 1px solid rgba(34, 19, 163, 0.12);
+    width: 100%;
+}
+
+.team-banner img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
 }
 
 /* Footer */
