@@ -1,179 +1,497 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GRIDS - Graduates Rising in Data Science | USC</title>
+    <title>GRIDS | USC</title>
+    <link rel="icon" type="image/png" href="assets/images/grids_logo.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
-    <header>
-        <div class="container">
-            <div class="header-content">
-                <div class="branding">
-                    <img src="assets/images/grids_logo.png" alt="GRIDS logo" class="logo-mark">
-                    <div class="title-group">
-                        <h1 class="wordmark">GRIDS</h1>
-                        <p class="tagline">Graduates Rising in Data Science</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
 
-    <nav>
-        <div class="container">
-            <ul class="nav-menu">
-                <li><a href="#mission">Mission</a></li>
+<body>
+    <div class="bg-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+
+    <nav class="glass-nav">
+        <div class="container nav-container">
+            <div class="nav-logo">
+                <img src="assets/images/grids_logo.png" alt="GRIDS Logo">
+                <span class="nav-title">GRIDS</span>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#objectives">Objectives</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#events">Events</a></li>
-                <li><a href="#teams">Teams</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#collaborations">Partners</a></li>
             </ul>
         </div>
     </nav>
 
+    <header class="hero" id="home">
+        <!-- Animated Grid Background -->
+        <div class="hero-grid-pattern">
+            <div class="hero-grid-pattern-inner" id="hero-grid-pattern-inner">
+                <svg aria-hidden="true" class="grid-svg">
+                    <defs>
+                        <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse" x="-1" y="-1">
+                            <path d="M.5 40V.5H40" fill="none" class="grid-line" stroke-dasharray="0" />
+                        </pattern>
+                    </defs>
+                    <rect width="100%" height="100%" fill="url(#hero-grid)" />
+                    <svg x="-1" y="-1" class="grid-squares" id="grid-squares-container"></svg>
+                </svg>
+            </div>
+        </div>
+
+        <div class="container hero-content">
+            <h1 class="hero-title">
+                GRIDS<br>
+                <span class="hero-subtitle">Graduates Rising in Data Science</span>
+            </h1>
+            <p class="hero-desc">Where USC students turn data into impact and connections into careers.</p>
+            <div class="hero-cta">
+                <a href="#projects" class="btn btn-primary">View Projects</a>
+                <a href="#events" class="btn btn-secondary">Upcoming Events</a>
+            </div>
+        </div>
+    </header>
+
     <main>
-        <section id="mission" class="section mission-section">
-            <div class="container">
-                <h2>Our Mission</h2>
-                <div class="mission-content">
-                    <p class="mission-text">
-                        Graduates Rising in Data Science (GRIDS) is the first graduate student organization within the USC Viterbi School of Engineering's Lord Department of Computer Science with a mission to build a strong inter-disciplinary data science community.
+        <section id="about" class="section">
+            <div class="container reveal">
+                <div class="glass-panel about-panel">
+                    <h2 class="section-title">About Us</h2>
+                    <p class="section-text">
+                        GRIDS was established in 2017 as the first graduate organization dedicated to Data Science
+                        within USC Viterbi’s Thomas Lord Department of Computer Science. It is now the largest Data
+                        Science community at USC, boasting a robust and ever-growing alumni network
+                    </p>
+
+                    <div class="mission-statement">
+                        <h3>Mission Statement</h3>
+                        <p>Advance the academic and professional interests of Informatics, Data Science, and Computer
+                            Science students through experiential learning, corporate partnerships, and networking
+                            opportunities.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="objectives" class="section">
+            <div class="container reveal">
+                <h2 class="section-title">Objectives</h2>
+                <div class="grid-4">
+                    <div class="glass-card obj-card">
+                        <h3>Build a Thriving Community</h3>
+                        <p>Create the strongest interdisciplinary AI & Data Science network at USC.</p>
+                    </div>
+                    <div class="glass-card obj-card">
+                        <h3>Experiential Learning</h3>
+                        <p>Hands-on semester projects in AI, ML, NLP, Computer Vision, and Data Engineering.</p>
+                    </div>
+                    <div class="glass-card obj-card">
+                        <h3>Industry Partnerships</h3>
+                        <p>Bridge academia and industry through workshops, sponsorships, and recruiting pipelines.</p>
+                    </div>
+                    <div class="glass-card obj-card">
+                        <h3>Elevate Career Outcomes</h3>
+                        <p>Prepare GRIDS members for top roles in AI and data science.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <div class="container reveal">
+                <h2 class="section-title">Project Showcase</h2>
+
+                <div class="tabs-container glass-panel">
+                    <div class="tabs-header">
+                        <button class="tab-btn active" data-target="project-1">ICU-MM</button>
+                        <button class="tab-btn" data-target="project-2">Course Reccomender</button>
+                        <button class="tab-btn" data-target="project-3">Student Collaboration Tool</button>
+                        <button class="tab-btn" data-target="project-4">ML Reliability & Efficiency Toolkit</button>
+                    </div>
+                    <div class="tabs-content">
+
+                        <div class="tab-pane active" id="project-1">
+                            <div class="project-content">
+                                <div class="project-text">
+                                    <h3>ICU-MM: Multimodal ICU Risk Prediction</h3>
+                                    <div class="tags">
+                                        <span class="tag">AI</span>
+                                        <span class="tag">Computer Vision</span>
+                                        <span class="tag">Healthcare</span>
+                                    </div>
+                                    <p>AI system predicting ICU deterioration using imaging and EHR data.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="project-2">
+                            <div class="project-content">
+                                <div class="project-text">
+                                    <h3>Class Lens: Smart Course Recommender</h3>
+                                    <div class="tags">
+                                        <span class="tag">ML</span>
+                                        <span class="tag">NLP</span>
+                                    </div>
+                                    <p>AI system generating optimized USC course schedules using user interests and
+                                        course reviews.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="project-3">
+                            <div class="project-content">
+                                <div class="project-text">
+                                    <h3>Student Collaboration Tool</h3>
+                                    <div class="tags">
+                                        <span class="tag">AI</span>
+                                        <span class="tag">Planning</span>
+                                    </div>
+                                    <p>A lightweight AI-powered planning tool for student group projects and clubs with
+                                        the goal to reduce coordination stress and make student collaboration smoother.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="project-4">
+                            <div class="project-content">
+                                <div class="project-text">
+                                    <h3>ML Reliability & Efficiency Toolkit/Library</h3>
+                                    <div class="tags">
+                                        <span class="tag">Responsible AI</span>
+                                        <span class="tag">LLM Optimization</span>
+                                        <span class="tag">Bias Auditing</span>
+                                    </div>
+                                    <p>A responsible AI and LLM systems project focused on combining the following
+                                        aspects:</p>
+                                    <ul
+                                        style="color: var(--text-muted); padding-left: 20px; font-size: 1.1rem; line-height: 1.7;">
+                                        <li>Auditing fairness / bias</li>
+                                        <li>LLM token / context optimization / management</li>
+                                        <li>Efficiency and reliability improvements</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="events" class="section pb-20 pt-10">
+            <div class="container relative reveal">
+                <div class="text-center mb-16">
+                    <h2 class="section-title mb-4">Events & Community</h2>
+                    <p class="text-lg text-neutral-400 max-w-2xl mx-auto"
+                        style="color: var(--text-muted); font-size: 1.1rem; margin-bottom: 30px;">
+                        Where USC data scientists collaborate, innovate, and build real-world impact.
                     </p>
                 </div>
+
+                <!-- Upcoming Events Bars -->
+                <div class="upcoming-events-container">
+                    <h3 class="upcoming-title">Happening This Semester</h3>
+                    <div class="event-bars">
+                        <!-- Event Bar 1 -->
+                        <a href="https://www.instagram.com/p/DV6vHCDCUuK/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
+                            target="_blank" class="event-bar-link">
+                            <div class="event-bar reveal">
+                                <div class="event-bar-img">
+                                    <img src="assets/images/b4sc.png" alt="Build for SC Hackathon">
+                                </div>
+                                <div class="event-bar-info">
+                                    <h4>Build for SC Hackathon</h4>
+                                    <p class="event-bar-date">
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                            stroke-linejoin="round">
+                                            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                            <line x1="16" y1="2" x2="16" y2="6"></line>
+                                            <line x1="8" y1="2" x2="8" y2="6"></line>
+                                            <line x1="3" y1="10" x2="21" y2="10"></line>
+                                        </svg>
+                                        Coming Soon
+                                    </p>
+                                </div>
+                                <div class="event-bar-action">
+                                    <span class="tag">Hackathon</span>
+                                </div>
+                            </div>
+                        </a>
+
+                        <!-- Event Bar 2 -->
+                        <div class="event-bar reveal" style="transition-delay: 0.1s;">
+                            <div class="event-bar-img placeholder-img">
+                                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                    <circle cx="9" cy="7" r="4"></circle>
+                                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                </svg>
+                            </div>
+                            <div class="event-bar-info">
+                                <h4>Social Night</h4>
+                                <p class="event-bar-date">
+                                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                        <line x1="16" y1="2" x2="16" y2="6"></line>
+                                        <line x1="8" y1="2" x2="8" y2="6"></line>
+                                        <line x1="3" y1="10" x2="21" y2="10"></line>
+                                    </svg>
+                                    Later this semester
+                                </p>
+                            </div>
+                            <div class="event-bar-action">
+                                <span class="tag">Social</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Overlay Background (hidden by default) -->
+                <div id="events-overlay" class="events-overlay"></div>
+
+                <!-- Interactive Layout Grid -->
+                <div class="events-layout-grid">
+
+                    <!-- Card 1: Ideathon -->
+                    <div class="layout-card card-span-2" data-card="1">
+                        <img src="assets/images/ideathon1.png" alt="Ideathon" class="bg-image">
+                        <div class="card-content-overlay">
+                            <div class="card-content-inner">
+                                <h3 class="event-title">Ideathon</h3>
+                                <p class="event-desc">
+                                    48-hour innovation sprint where students collaborate to prototype real-world AI and
+                                    data science solutions.
+                                </p>
+                                <div class="event-sub-images">
+                                    <img src="assets/images/ideathon2.png" alt="Ideathon 2">
+                                    <img src="assets/images/ideathon3.png" alt="Ideathon 3">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 2: Social Mixer -->
+                    <div class="layout-card card-span-1" data-card="2">
+                        <img src="assets/images/socialmixer1.png" alt="Social Mixer" class="bg-image">
+                        <div class="card-content-overlay">
+                            <div class="card-content-inner">
+                                <h3 class="event-title">Social Mixer</h3>
+                                <p class="event-desc">
+                                    Fun networking event bringing together GRIDS members, alumni, and industry
+                                    professionals.
+                                </p>
+                                <div class="event-sub-images">
+                                    <img src="assets/images/socialmixer2.png" alt="Mixer 2">
+                                    <img src="assets/images/socialmixer3.png" alt="Mixer 3">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 3: Symposium -->
+                    <div class="layout-card card-span-1" data-card="3">
+                        <img src="assets/images/symposium1.jpeg" alt="Symposium" class="bg-image">
+                        <div class="card-content-overlay">
+                            <div class="card-content-inner">
+                                <h3 class="event-title">Symposium</h3>
+                                <p class="event-desc">
+                                    End-of-semester research and project showcase highlighting GRIDS innovation.
+                                </p>
+                                <div class="event-sub-images">
+                                    <img src="assets/images/symposium2.jpg" alt="Symposium 2">
+                                    <img src="assets/images/symposium3.jpg" alt="Symposium 3">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
             </div>
         </section>
 
-        <section id="projects" class="section projects-section">
-            <div class="container">
-                <h2>Projects This Semester (Fall 2025)</h2>
-                <div class="projects-grid">
-                    <div class="project-card project-card--impact">
-                        <div class="project-badge">Internal Impact</div>
-                        <h3>GRIDS Website 2.0</h3>
-                        <p>A dynamic hub featuring project showcases, live analytics, and AI-powered tools designed to connect our community and highlight innovative work.</p>
+        <section id="team" class="section">
+            <div class="container reveal">
+                <h2 class="section-title">Our Team</h2>
+                <div class="grid-3 team-grid mb-4">
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/Advisor.png" alt="Professor Saty"></div>
+                        <h4>Dr. Saty Raghavachary</h4>
+                        <p>Advisor</p>
                     </div>
-                    <div class="project-card project-card--student">
-                        <div class="project-badge">Student Utility</div>
-                        <h3>Course Recommender</h3>
-                        <p>Smart course planning tool that combines historical data, professor ratings, and student insights to help you build the perfect schedule.</p>
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/president.png" alt="Chaya Vijayakumar">
+                        </div>
+                        <h4>Chaya Vijayakumar</h4>
+                        <p>President</p>
                     </div>
-                    <div class="project-card project-card--public">
-                        <div class="project-badge">Public Showcase</div>
-                        <h3>ICU-MM</h3>
-                        <p>AI-powered medical assistant that combines imaging and patient data to predict critical care needs with precision.</p>
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/vicepresident.png" alt="Shamik Basu">
+                        </div>
+                        <h4>Shamik Basu</h4>
+                        <p>Vice President</p>
                     </div>
-                    <div class="project-card project-card--justice">
-                        <div class="project-badge">Public Showcase</div>
-                        <h3>AI-Powered Tenant Legal Assistant</h3>
-                        <p>Empowering tenants with instant access to legal guidance and resources through intelligent AI assistance.</p>
+                </div>
+                <div class="grid-4 team-grid">
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/dfin.png" alt="Kaushal Patil"></div>
+                        <h4>Kaushal Patil</h4>
+                        <p>Director – Finance</p>
+                    </div>
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/daidi.png" alt="Ayush Deo"></div>
+                        <h4>Ayush Deo</h4>
+                        <p>Director – AI & Innovation</p>
+                    </div>
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/dout.png" alt="Gyselle Aguilar"></div>
+                        <h4>Gyselle Aguilar</h4>
+                        <p>Director – Outreach</p>
+                    </div>
+                    <div class="glass-card team-card">
+                        <div class="team-img-wrapper"><img src="assets/images/dmark.png" alt="Nehang Patel"></div>
+                        <h4>Nehang Patel</h4>
+                        <p>Director – Marketing</p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="events" class="section events-section">
-            <div class="container">
-                <h2>Events This Semester</h2>
-                <div class="events-list">
-                    <div class="event-card">
-                        <div class="event-date">
-                            <span class="date-day">23</span>
-                            <span class="date-month">OCT</span>
-                        </div>
-                        <div class="event-content">
-                            <h3>Mixer Fall 2025</h3>
-                            <p>Fun Games and networking</p>
-                        </div>
-                    </div>
-                    <div class="event-card">
-                        <div class="event-date">
-                            <span class="date-day">14</span>
-                            <span class="date-month">NOV</span>
-                        </div>
-                        <div class="event-content">
-                            <h3>Ideathon Fall 2025</h3>
-                            <p>48-hour innovation sprint where cross-disciplinary teams prototype data-driven solutions to real-world challenges.</p>
-                        </div>
-                    </div>
-                    <div class="event-card">
-                        <div class="event-date">
-                            <span class="date-day">16</span>
-                            <span class="date-month">NOV</span>
-                        </div>
-                        <div class="event-content">
-                            <h3>Social Night</h3>
-                            <p>Join us for a fun evening of networking and socializing</p>
-                        </div>
+        <section id="collaborations" class="section">
+            <div class="container reveal">
+                <div class="text-center mb-10">
+                    <h2 class="collaborate-title mb-4">
+                        <span class="text-muted">Companies we</span>
+                        <span class="highlight">collaborate</span>
+                        <span class="text-muted">with.</span>
+                    </h2>
+                    <p class="text-lg text-neutral-400 max-w-2xl mx-auto"
+                        style="color: var(--text-muted); font-size: 1.1rem; margin-bottom: 25px;">
+                        Bridge academia and industry. Join us in shaping the future of AI & Data Science.
+                    </p>
+                    <div class="sponsor-opportunities" style="margin-bottom: 50px;">
+                        <span class="tag">Hackathons</span>
+                        <span class="tag">Speaker Sessions</span>
+                        <span class="tag">Mentorship</span>
+                        <span class="tag">Sponsor Prizes</span>
+                        <span class="tag">Brand Placement</span>
                     </div>
                 </div>
-            </div>
-        </section>
 
-        <section id="teams" class="section teams-section">
-            <div class="container">
-                <h2>Our Teams</h2>
-                <p class="teams-intro">Meet the core organizers and leads driving GRIDS initiatives across projects, partnerships, and community programming.</p>
-                <div class="team-banners">
-                    <figure class="team-banner">
-                        <img src="assets/images/Team_Leads.png" alt="GRIDS Team Leads banner">
-                    </figure>
-                    <figure class="team-banner">
-                        <img src="assets/images/Team_Core.png" alt="GRIDS Core Team banner">
-                    </figure>
+                <div class="glass-sponsors-container">
+                    <div class="glass-sponsors-grid">
+                        <div class="grid-cross"></div>
+                        <div class="grid-cross"></div>
+
+                        <div class="sponsor-cell">
+                            <img src="assets/images/collab1.png" alt="Partner 1">
+                        </div>
+                        <div class="sponsor-cell">
+                            <img src="assets/images/collab2.png" alt="Partner 2">
+                        </div>
+                        <div class="sponsor-cell">
+                            <img src="assets/images/collab3.png" alt="Partner 3">
+                        </div>
+                        <div class="sponsor-cell">
+                            <img src="assets/images/collab4.png" alt="Partner 4">
+                        </div>
+                        <div class="sponsor-cell">
+                            <img src="assets/images/collab5.png" alt="Partner 5">
+                        </div>
+                        <a href="mailto:gridsusc@gmail.com" class="sponsor-cell become-sponsor">
+                            <span class="become-sponsor-text">+ Partner with us</span>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer id="contact" class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <img src="assets/images/grids_logo.png" alt="GRIDS logo" class="footer-logo">
-                    <h3>GRIDS</h3>
-                    <p>Graduates Rising in Data Science</p>
-                    <p>USC Viterbi School of Engineering</p>
-                </div>
-                <div class="footer-section">
-                    <h3>Connect With Us</h3>
-                    <p>Follow us for updates on events and projects</p>
-                    <div class="social-links">
-                        <a href="https://medium.com/@grids_61465" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Medium">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/>
-                            </svg>
-                            <span>Medium</span>
-                        </a>
-                        <a href="https://www.instagram.com/gridsusc" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Instagram">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
-                            </svg>
-                            <span>Instagram</span>
-                        </a>
-                        <a href="https://discord.gg/dZYFvN9T" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Discord">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
-                            </svg>
-                            <span>Discord</span>
-                        </a>
-                        <a href="https://www.linkedin.com/company/gridsusc/" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="LinkedIn">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-                            </svg>
-                            <span>LinkedIn</span>
-                        </a>
+    <footer class="glass-footer">
+        <div class="container footer-content">
+            <div class="footer-left">
+                <div class="footer-info">
+                    <img src="assets/images/grids_logo.png" alt="GRIDS" class="footer-logo">
+                    <div>
+                        <h4>GRIDS</h4>
+                        <p>USC Viterbi School of Engineering</p>
                     </div>
                 </div>
+                <!-- Interactive Socials inside left container -->
+                <div class="footer-socials">
+                    <a href="https://medium.com/@grids_61465" aria-label="Medium" target="_blank">
+                        <!-- SVG code unchanged -->
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path
+                                d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z" />
+                        </svg>
+                    </a>
+                    <a href="https://discord.gg/h5xRerbcQ5" aria-label="Discord" target="_blank">
+                        <!-- SVG code unchanged -->
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path
+                                d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z" />
+                        </svg>
+                    </a>
+                    <a href="https://www.instagram.com/gridsusc" aria-label="Instagram" target="_blank">
+                        <!-- SVG code unchanged -->
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path
+                                d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                        </svg>
+                    </a>
+                    <a href="https://www.linkedin.com/company/gridsusc/" aria-label="LinkedIn" target="_blank">
+                        <!-- SVG code unchanged -->
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <path
+                                d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+                        </svg>
+                    </a>
+                </div>
             </div>
-            <div class="footer-bottom">
-                <p>&copy; 2025 GRIDS - USC. All rights reserved.</p>
+
+            <div class="footer-links-grid">
+                <div class="footer-column">
+                    <h5 class="footer-heading">Resources</h5>
+                    <ul class="footer-link-list">
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#events">Events</a></li>
+                        <li><a href="#team">Team</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h5 class="footer-heading">Company</h5>
+                    <ul class="footer-link-list">
+                        <li><a href="mailto:gridsusc@gmail.com">Contact Support</a></li>
+                        <li><a href="#collaborations">Partners</a></li>
+                    </ul>
+                </div>
             </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Graduates Rising in Data Science - University of Southern California. All rights reserved.
+            </p>
         </div>
     </footer>
 
     <script src="assets/js/script.js"></script>
 </body>
-</html>
 
+</html>
