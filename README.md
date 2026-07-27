@@ -32,7 +32,7 @@ All styling logic is contained within `assets/css/styles.css`.
 
 ### 2. Updating Sections (HTML)
 - **Projects (Tabs):** The projects are handled by simple HTML tabs `#project-1`, `#project-2`, etc. To add a new project, add a new `<button data-target="project-N">` in the `.tabs-header` and a corresponding `<div class="tab-pane" id="project-N">` in the `.tabs-content`.
-- **Partners / Sponsors Marquee:** The sponsor section (`#collaborations`) uses an infinite auto-scrolling logo marquee (`.logo-marquee`) with progressive-blur edges. Logos live in two identical sets inside `.logo-marquee-track` (Set A is the visible list; Set B is a duplicate marked `aria-hidden` for a seamless loop). To change logos, edit the `<img>` in the `.logo-item` divs — **update both sets** so the loop stays seamless. It's pure CSS (no JS): scroll speed is the `logo-scroll` animation duration on `.logo-marquee-track`, and it pauses on hover.
+- **Partners / Sponsors Grid:** The sponsor section (`#collaborations`) uses a CSS Grid layout. To change the logos, simply replace the image `src` inside the `.sponsor-cell` divs.
 - **Events Grid:** The `#events` section utilizes CSS Grid classes like `.card-span-2` and `.card-span-1` to dynamically size the bento-box styling.
 
 ### 3. Production Hardening
