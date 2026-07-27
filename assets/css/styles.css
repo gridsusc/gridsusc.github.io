@@ -263,11 +263,12 @@ body.modal-open .reveal.active{transform:none !important}
 /* Sponsor Logo Marquee (infinite scroll + progressive blur edges) */
 .logo-marquee{position:relative;overflow:hidden;padding:34px 0}
 .logo-marquee-track{display:flex;width:max-content;align-items:center;will-change:transform;
+    animation:logo-scroll 32s linear infinite;
     -webkit-mask-image:linear-gradient(to right,transparent 0,#000 9%,#000 91%,transparent 100%);
     mask-image:linear-gradient(to right,transparent 0,#000 9%,#000 91%,transparent 100%)}
-/* CSS fallback loop if JS is unavailable; JS (Web Animations API) takes over and cancels this */
 @keyframes logo-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-.logo-marquee-track.css-fallback{animation:logo-scroll 32s linear infinite}
+/* Pause on hover (pure-CSS equivalent of slow-on-hover) */
+.logo-marquee:hover .logo-marquee-track{animation-play-state:paused}
 .logo-item{flex:0 0 auto;padding:0 42px;display:flex;align-items:center;justify-content:center}
 .logo-item img{height:38px;width:auto;max-width:170px;object-fit:contain;
     filter:brightness(0) invert(1);opacity:.55;transition:opacity .3s ease,transform .3s ease}
@@ -297,6 +298,6 @@ body.modal-open .reveal.active{transform:none !important}
     .marquee-edge{width:80px}
 }
 @media (prefers-reduced-motion:reduce){
-    .logo-marquee-track.css-fallback{animation:none}
+    .logo-marquee-track{animation:none}
 }
 @media (max-width:600px){.grid-2,.grid-3,.grid-4{grid-template-columns:1fr}.nav-links{display:none}.hero-title{font-size:2.5rem}.hero-subtitle{font-size:1.5rem}.about-panel,.tabs-content{padding:30px 20px}.footer-content{align-items:center;text-align:center}.footer-left{align-items:center}.footer-info{flex-direction:column}.footer-links-grid{flex-direction:column; gap:40px; text-align:center; width:100%}}
