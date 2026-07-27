@@ -173,3 +173,25 @@ function initGridPattern() {
 }
 
 document.addEventListener("DOMContentLoaded", initGridPattern);
+
+// Recruitments Popup Notification
+function initRecruitPopup() {
+    const popup = document.getElementById('recruit-popup');
+    const closeBtn = document.getElementById('recruit-close');
+    if (!popup) return;
+
+    // Don't re-show if the user already dismissed it this session
+    if (sessionStorage.getItem('recruitPopupDismissed') === 'true') return;
+
+    const dismiss = () => {
+        popup.classList.remove('show');
+        sessionStorage.setItem('recruitPopupDismissed', 'true');
+    };
+
+    if (closeBtn) closeBtn.addEventListener('click', dismiss);
+
+    // Slide in shortly after landing
+    setTimeout(() => popup.classList.add('show'), 1200);
+}
+
+document.addEventListener("DOMContentLoaded", initRecruitPopup);
