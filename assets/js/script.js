@@ -195,3 +195,24 @@ function initRecruitPopup() {
 }
 
 document.addEventListener("DOMContentLoaded", initRecruitPopup);
+
+// Sponsor Logo Marquee (Web Animations API: smooth infinite loop + slow-on-hover)
+function initLogoMarquee() {
+    const marquee = document.getElementById('logo-marquee');
+    const track = marquee && marquee.querySelector('.logo-marquee-track');
+    if (!track) return;
+
+    // Respect reduced-motion: leave logos static
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const anim = track.animate(
+        [{ transform: 'translateX(0)' }, { transform: 'translateX(-50%)' }],
+        { duration: 32000, iterations: Infinity, easing: 'linear' }
+    );
+
+    // Slow to 25% speed on hover (smoothly, no jump), like the reference speedOnHover
+    marquee.addEventListener('mouseenter', () => anim.updatePlaybackRate(0.25));
+    marquee.addEventListener('mouseleave', () => anim.updatePlaybackRate(1));
+}
+
+document.addEventListener("DOMContentLoaded", initLogoMarquee);
